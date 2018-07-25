@@ -2,27 +2,20 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.header {
+  background:blue;
+  color:white;
+  font-size: 30px;
+  padding: 40px;
+
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
+#signin-form > input {
+  width: 1000px;
   padding: 20px;
-  color: white;
-}
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-top: 40px;
 
-.App-title {
-  font-size: 1.5em;
-}
 
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
 }
