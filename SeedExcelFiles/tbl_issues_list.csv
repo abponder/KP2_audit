@@ -1,0 +1,1272 @@
+Audit Type,Topics,Id,Completed,Active
+Behavioral Health Prescribing - Amb,DX - Appropriate DX Association,1,FALSE,TRUE
+Behavioral Health Prescribing - Amb,DX - Conflicting Documentation,2,FALSE,TRUE
+Behavioral Health Prescribing - Amb,DX - Documented But Not Reported,3,FALSE,TRUE
+Behavioral Health Prescribing - Amb,DX - Not Definitive,4,FALSE,TRUE
+Behavioral Health Prescribing - Amb,DX - Primary DX/ DX Sequence,5,FALSE,TRUE
+Behavioral Health Prescribing - Amb,DX - Reported But Not Documented,6,FALSE,TRUE
+Behavioral Health Prescribing - Amb,DX - Specificity ,7,FALSE,TRUE
+Behavioral Health Prescribing - Amb,DX - Supporting Documentation,8,FALSE,TRUE
+Behavioral Health Prescribing - Amb,EM - Chief Complaint/Reason for Visit,9,FALSE,TRUE
+Behavioral Health Prescribing - Amb,EM - Encounter Type Issue,10,FALSE,TRUE
+Behavioral Health Prescribing - Amb,EM - HPI Clarification,11,FALSE,TRUE
+Behavioral Health Prescribing - Amb,EM - MDM Clarification,12,FALSE,TRUE
+Behavioral Health Prescribing - Amb,EM - Patient Type,13,FALSE,TRUE
+Behavioral Health Prescribing - Amb,EM - PE Clarification,14,FALSE,TRUE
+Behavioral Health Prescribing - Amb,EM - ROS Clarification,15,FALSE,TRUE
+Behavioral Health Prescribing - Amb,EM - Time Based LOS,16,FALSE,TRUE
+Behavioral Health Prescribing - Amb,Only identified topic(s) in APPEAL or Non Provider issue,17,FALSE,TRUE
+Behavioral Health Prescribing - Amb,PROC - Procedure Documentation Issue,18,FALSE,TRUE
+Behavioral Health Prescribing - Amb,PROC - Procedure Documented But Not Reported,19,FALSE,TRUE
+Behavioral Health Prescribing - Amb,PROC - Procedure Only Visit,20,FALSE,TRUE
+Behavioral Health Prescribing - Amb,PROC - Procedure Reported But Not Documented ,21,FALSE,TRUE
+Behavioral Health Prescribing - Amb,PROC - Procedure Reporting Issue,22,FALSE,TRUE
+Behavioral Health Prescribing - Amb,TAV Coding,23,FALSE,TRUE
+Behavioral Health Prescribing - Amb,Video Visits,24,FALSE,TRUE
+Anesthesia,Anesthesia Type,25,FALSE,TRUE
+Anesthesia,Anesthesiologist Role (MD Alone/Supervision),26,FALSE,TRUE
+Anesthesia,ASA (Pre-Anesthesia vs. Intra-op),27,FALSE,TRUE
+Anesthesia,Field Avoidance,28,FALSE,TRUE
+Anesthesia,General Anesthesia used when not usual,29,FALSE,TRUE
+Anesthesia,MAC ,30,FALSE,TRUE
+Anesthesia,Patient Position,31,FALSE,TRUE
+Anesthesia,Plan of Care ,32,FALSE,TRUE
+Anesthesia,Post-Anesthesia Evaluation,33,FALSE,TRUE
+Anesthesia,Presence During Induction,34,FALSE,TRUE
+Anesthesia,PROC - Procedure Documented But Not Reported,35,FALSE,TRUE
+Anesthesia,Procedure Outside Global,36,FALSE,TRUE
+Anesthesia,Qualifying Circumstances (Controlled Hypotension ),37,FALSE,TRUE
+Anesthesia,Qualifying Circumstances (Emergency Condition),38,FALSE,TRUE
+Anesthesia,Qualifying Circumstances (Total Body Hypothermia),39,FALSE,TRUE
+Anesthesia,Supplemental Procedure,40,FALSE,TRUE
+Anesthesia,Time (start/end),41,FALSE,TRUE
+Anesthesia,Transfer of Care,42,FALSE,TRUE
+Continuing Care,DX - Appropriate DX Association,43,FALSE,TRUE
+Continuing Care,DX - Conflicting Documentation,44,FALSE,TRUE
+Continuing Care,DX - Documented But Not Reported,45,FALSE,TRUE
+Continuing Care,DX - Not Definitive,46,FALSE,TRUE
+Continuing Care,DX - Primary DX/ DX Sequence,47,FALSE,TRUE
+Continuing Care,DX - Reported But Not Documented,48,FALSE,TRUE
+Continuing Care,DX - Specificity ,49,FALSE,TRUE
+Continuing Care,DX - Supporting Documentation,50,FALSE,TRUE
+Continuing Care,E&M Prior to Admission Visit,51,FALSE,TRUE
+Continuing Care,EM - Annual Exam,52,FALSE,TRUE
+Continuing Care,EM - Chief Complaint/Reason for Visit,53,FALSE,TRUE
+Continuing Care,EM - Discharge Service Issue,54,FALSE,TRUE
+Continuing Care,EM - HPI Clarification,55,FALSE,TRUE
+Continuing Care,EM - Independent Interpretation,56,FALSE,TRUE
+Continuing Care,EM - Initial NF EM Issue,57,FALSE,TRUE
+Continuing Care,EM - MDM Clarification,58,FALSE,TRUE
+Continuing Care,EM - Patient Type,59,FALSE,TRUE
+Continuing Care,EM - PE Clarification,60,FALSE,TRUE
+Continuing Care,EM - ROS Clarification,61,FALSE,TRUE
+Continuing Care,EM - Time Based LOS,62,FALSE,TRUE
+Continuing Care,KPHC Wizard Functionality,63,FALSE,TRUE
+Continuing Care,MOD - Modifier 25,64,FALSE,TRUE
+Continuing Care,Only identified topic(s) in APPEAL or Non Provider issue,65,FALSE,TRUE
+Continuing Care,PROC - Procedure Documentation Issue,66,FALSE,TRUE
+Continuing Care,PROC - Procedure Documented But Not Reported,67,FALSE,TRUE
+Continuing Care,PROC - Procedure Only Visit,68,FALSE,TRUE
+Continuing Care,PROC - Procedure Reported But Not Documented ,69,FALSE,TRUE
+Continuing Care,PROC - Procedure Reporting Issue,70,FALSE,TRUE
+Dermatology - Amb,DX - Appropriate DX Association,71,FALSE,TRUE
+Dermatology - Amb,DX - Conflicting Documentation,72,FALSE,TRUE
+Dermatology - Amb,DX - Documented But Not Reported,73,FALSE,TRUE
+Dermatology - Amb,DX - Not Definitive,74,FALSE,TRUE
+Dermatology - Amb,DX - Primary DX/ DX Sequence,75,FALSE,TRUE
+Dermatology - Amb,DX - Reported But Not Documented,76,FALSE,TRUE
+Dermatology - Amb,DX - Specificity ,77,FALSE,TRUE
+Dermatology - Amb,DX - Supporting Documentation,78,FALSE,TRUE
+Dermatology - Amb,EM - HPI Clarification,79,FALSE,TRUE
+Dermatology - Amb,EM - MDM Clarification,80,FALSE,TRUE
+Dermatology - Amb,EM - Patient Type,81,FALSE,TRUE
+Dermatology - Amb,EM - PE Clarification,82,FALSE,TRUE
+Dermatology - Amb,EM - ROS Clarification,83,FALSE,TRUE
+Dermatology - Amb,MOD - Modifier 59/XS ,84,FALSE,TRUE
+Dermatology - Amb,Only identified topic(s) in APPEAL or Non Provider issue,85,FALSE,TRUE
+Dermatology - Amb,PROC - Procedure Documentation Issue,86,FALSE,TRUE
+Dermatology - Amb,PROC - Procedure Documented But Not Reported,87,FALSE,TRUE
+Dermatology - Amb,PROC - Procedure Only Visit,88,FALSE,TRUE
+Dermatology - Amb,PROC - Procedure Reported But Not Documented ,89,FALSE,TRUE
+Dermatology - Amb,PROC - Procedure Reporting Issue,90,FALSE,TRUE
+Emergency Department,DX - Appropriate DX Association,91,FALSE,TRUE
+Emergency Department,DX - Conflicting Documentation,92,FALSE,TRUE
+Emergency Department,DX - Documented But Not Reported,93,FALSE,TRUE
+Emergency Department,DX - Not Definitive,94,FALSE,TRUE
+Emergency Department,DX - Primary DX/ DX Sequence,95,FALSE,TRUE
+Emergency Department,DX - Reported But Not Documented,96,FALSE,TRUE
+Emergency Department,DX - Specificity ,97,FALSE,TRUE
+Emergency Department,DX - Supporting Documentation,98,FALSE,TRUE
+Emergency Department,EM - Critical Care Coding,99,FALSE,TRUE
+Emergency Department,EM - ED Level 5 Exception,100,FALSE,TRUE
+Emergency Department,EM - HPI Clarification,101,FALSE,TRUE
+Emergency Department,EM - Independent Interpretation,102,FALSE,TRUE
+Emergency Department,EM - MDM Clarification,103,FALSE,TRUE
+Emergency Department,EM - PE Clarification,104,FALSE,TRUE
+Emergency Department,EM - ROS Clarification,105,FALSE,TRUE
+Emergency Department,Only identified topic(s) in APPEAL or Non Provider issue,106,FALSE,TRUE
+Emergency Department,PROC - Procedure Documentation Issue,107,FALSE,TRUE
+Emergency Department,PROC - Procedure Documented But Not Reported,108,FALSE,TRUE
+Emergency Department,PROC - Procedure Reported But Not Documented ,109,FALSE,TRUE
+Emergency Department,PROC - Procedure Reporting Issue,110,FALSE,TRUE
+Haiku - IP,DX - Appropriate DX Association,111,FALSE,TRUE
+Haiku - IP,DX - Conflicting Documentation,112,FALSE,TRUE
+Haiku - IP,DX - Documented But Not Reported,113,FALSE,TRUE
+Haiku - IP,DX - Not Definitive,114,FALSE,TRUE
+Haiku - IP,DX - Primary DX/ DX Sequence,115,FALSE,TRUE
+Haiku - IP,DX - Reported But Not Documented,116,FALSE,TRUE
+Haiku - IP,DX - Specificity ,117,FALSE,TRUE
+Haiku - IP,DX - Supporting Documentation,118,FALSE,TRUE
+Haiku - IP,EM - Chief Complaint/Reason for Visit,119,FALSE,TRUE
+Haiku - IP,EM - Critical Care Coding,120,FALSE,TRUE
+Haiku - IP,EM - Discharge Service Issue,121,FALSE,TRUE
+Haiku - IP,EM - ED Level 5 Exception,122,FALSE,TRUE
+Haiku - IP,EM - Encounter Type Issue,123,FALSE,TRUE
+Haiku - IP,EM - HPI Clarification,124,FALSE,TRUE
+Haiku - IP,EM - Independent Interpretation,125,FALSE,TRUE
+Haiku - IP,EM - Initial Inpatient/Observation EM Issue,126,FALSE,TRUE
+Haiku - IP,EM - MDM Clarification,127,FALSE,TRUE
+Haiku - IP,EM - Patient Type,128,FALSE,TRUE
+Haiku - IP,EM - PE Clarification,129,FALSE,TRUE
+Haiku - IP,EM - ROS Clarification,130,FALSE,TRUE
+Haiku - IP,EM - Time Based LOS,131,FALSE,TRUE
+Haiku - IP,Only identified topic(s) in APPEAL or Non Provider issue,132,FALSE,TRUE
+Haiku - IP,PROC - Global Surgical Period/Package,133,FALSE,TRUE
+Haiku - IP,PROC - Procedure Documentation Issue,134,FALSE,TRUE
+Haiku - IP,PROC - Procedure Documented But Not Reported,135,FALSE,TRUE
+Haiku - IP,PROC - Procedure Only Visit,136,FALSE,TRUE
+Haiku - IP,PROC - Procedure Reported But Not Documented ,137,FALSE,TRUE
+Haiku - IP,PROC - Procedure Reporting Issue,138,FALSE,TRUE
+Haiku - IP,Psych/ Diagnostic Interview,139,FALSE,TRUE
+Haiku - IP,TAV Coding,140,FALSE,TRUE
+IM/FM - IP,DX - Conflicting Documentation,141,FALSE,TRUE
+IM/FM - IP,DX - Documented But Not Reported,142,FALSE,TRUE
+IM/FM - IP,DX - Reported But Not Documented,143,FALSE,TRUE
+IM/FM - IP,DX - Specificity ,144,FALSE,TRUE
+IM/FM - IP,DX - Supporting Documentation,145,FALSE,TRUE
+IM/FM - IP,EM - Age Discrepancy,146,FALSE,TRUE
+IM/FM - IP,EM - Chief Complaint/Reason for Visit,147,FALSE,TRUE
+IM/FM - IP,EM - Consultation Required Element,148,FALSE,TRUE
+IM/FM - IP,EM - Critical Care Coding,149,FALSE,TRUE
+IM/FM - IP,EM - Delivery Room Attendance,150,FALSE,TRUE
+IM/FM - IP,EM - Discharge Service Issue,151,FALSE,TRUE
+IM/FM - IP,EM - Encounter Type Issue,152,FALSE,TRUE
+IM/FM - IP,EM - HPI Clarification,153,FALSE,TRUE
+IM/FM - IP,EM - Independent Interpretation,154,FALSE,TRUE
+IM/FM - IP,EM - Initial Evaluation/ Daily Care,155,FALSE,TRUE
+IM/FM - IP,EM - Initial Inpatient/Observation EM Issue,156,FALSE,TRUE
+IM/FM - IP,EM - Intensive Care,157,FALSE,TRUE
+IM/FM - IP,EM - MDM Clarification,158,FALSE,TRUE
+IM/FM - IP,EM - PE Clarification,159,FALSE,TRUE
+IM/FM - IP,EM - ROS Clarification,160,FALSE,TRUE
+IM/FM - IP,EM - Time Based LOS,161,FALSE,TRUE
+IM/FM - IP,Only identified topic(s) in APPEAL or Non Provider issue,162,FALSE,TRUE
+IM/FM - IP,PROC - Global Surgical Period/Package,163,FALSE,TRUE
+IM/FM - IP,PROC - Procedure Documented But Not Reported,164,FALSE,TRUE
+IM/FM - IP,Psych/ Diagnostic Interview,165,FALSE,TRUE
+IM/FM - IP,Resuscitation,166,FALSE,TRUE
+IM/FM - IP,Supervision of Residents and Fellows,167,FALSE,TRUE
+Ob/Gyn - IP,DX - Conflicting Documentation,168,FALSE,TRUE
+Ob/Gyn - IP,DX - Documented But Not Reported,169,FALSE,TRUE
+Ob/Gyn - IP,DX - Reported But Not Documented,170,FALSE,TRUE
+Ob/Gyn - IP,DX - Specificity ,171,FALSE,TRUE
+Ob/Gyn - IP,DX - Supporting Documentation,172,FALSE,TRUE
+Ob/Gyn - IP,EM - Age Discrepancy,173,FALSE,TRUE
+Ob/Gyn - IP,EM - Chief Complaint/Reason for Visit,174,FALSE,TRUE
+Ob/Gyn - IP,EM - Consultation Required Element,175,FALSE,TRUE
+Ob/Gyn - IP,EM - Critical Care Coding,176,FALSE,TRUE
+Ob/Gyn - IP,EM - Delivery Room Attendance,177,FALSE,TRUE
+Ob/Gyn - IP,EM - Discharge Service Issue,178,FALSE,TRUE
+Ob/Gyn - IP,EM - Encounter Type Issue,179,FALSE,TRUE
+Ob/Gyn - IP,EM - HPI Clarification,180,FALSE,TRUE
+Ob/Gyn - IP,EM - Independent Interpretation,181,FALSE,TRUE
+Ob/Gyn - IP,EM - Initial Evaluation/ Daily Care,182,FALSE,TRUE
+Ob/Gyn - IP,EM - Initial Inpatient/Observation EM Issue,183,FALSE,TRUE
+Ob/Gyn - IP,EM - Intensive Care,184,FALSE,TRUE
+Ob/Gyn - IP,EM - MDM Clarification,185,FALSE,TRUE
+Ob/Gyn - IP,EM - PE Clarification,186,FALSE,TRUE
+Ob/Gyn - IP,EM - ROS Clarification,187,FALSE,TRUE
+Ob/Gyn - IP,EM - Time Based LOS,188,FALSE,TRUE
+Ob/Gyn - IP,Only identified topic(s) in APPEAL or Non Provider issue,189,FALSE,TRUE
+Ob/Gyn - IP,PROC - Global Surgical Period/Package,190,FALSE,TRUE
+Ob/Gyn - IP,PROC - Procedure Documented But Not Reported,191,FALSE,TRUE
+Ob/Gyn - IP,Psych/ Diagnostic Interview,192,FALSE,TRUE
+Ob/Gyn - IP,Resuscitation,193,FALSE,TRUE
+Ob/Gyn - IP,Supervision of Residents and Fellows,194,FALSE,TRUE
+Pediatrics - IP,DX - Conflicting Documentation,195,FALSE,TRUE
+Pediatrics - IP,DX - Documented But Not Reported,196,FALSE,TRUE
+Pediatrics - IP,DX - Reported But Not Documented,197,FALSE,TRUE
+Pediatrics - IP,DX - Specificity ,198,FALSE,TRUE
+Pediatrics - IP,DX - Supporting Documentation,199,FALSE,TRUE
+Pediatrics - IP,EM - Age Discrepancy,200,FALSE,TRUE
+Pediatrics - IP,EM - Chief Complaint/Reason for Visit,201,FALSE,TRUE
+Pediatrics - IP,EM - Consultation Required Element,202,FALSE,TRUE
+Pediatrics - IP,EM - Critical Care Coding,203,FALSE,TRUE
+Pediatrics - IP,EM - Delivery Room Attendance,204,FALSE,TRUE
+Pediatrics - IP,EM - Discharge Service Issue,205,FALSE,TRUE
+Pediatrics - IP,EM - Encounter Type Issue,206,FALSE,TRUE
+Pediatrics - IP,EM - HPI Clarification,207,FALSE,TRUE
+Pediatrics - IP,EM - Independent Interpretation,208,FALSE,TRUE
+Pediatrics - IP,EM - Initial Evaluation/ Daily Care,209,FALSE,TRUE
+Pediatrics - IP,EM - Initial Inpatient/Observation EM Issue,210,FALSE,TRUE
+Pediatrics - IP,EM - Intensive Care,211,FALSE,TRUE
+Pediatrics - IP,EM - MDM Clarification,212,FALSE,TRUE
+Pediatrics - IP,EM - PE Clarification,213,FALSE,TRUE
+Pediatrics - IP,EM - ROS Clarification,214,FALSE,TRUE
+Pediatrics - IP,EM - Time Based LOS,215,FALSE,TRUE
+Pediatrics - IP,Only identified topic(s) in APPEAL or Non Provider issue,216,FALSE,TRUE
+Pediatrics - IP,PROC - Global Surgical Period/Package,217,FALSE,TRUE
+Pediatrics - IP,PROC - Procedure Documented But Not Reported,218,FALSE,TRUE
+Pediatrics - IP,Psych/ Diagnostic Interview,219,FALSE,TRUE
+Pediatrics - IP,Resuscitation,220,FALSE,TRUE
+Pediatrics - IP,Supervision of Residents and Fellows,221,FALSE,TRUE
+Behavioral Health - IP,DX - Conflicting Documentation,222,FALSE,TRUE
+Behavioral Health - IP,DX - Documented But Not Reported,223,FALSE,TRUE
+Behavioral Health - IP,DX - Reported But Not Documented,224,FALSE,TRUE
+Behavioral Health - IP,DX - Specificity ,225,FALSE,TRUE
+Behavioral Health - IP,DX - Supporting Documentation,226,FALSE,TRUE
+Behavioral Health - IP,EM - Age Discrepancy,227,FALSE,TRUE
+Behavioral Health - IP,EM - Chief Complaint/Reason for Visit,228,FALSE,TRUE
+Behavioral Health - IP,EM - Consultation Required Element,229,FALSE,TRUE
+Behavioral Health - IP,EM - Critical Care Coding,230,FALSE,TRUE
+Behavioral Health - IP,EM - Delivery Room Attendance,231,FALSE,TRUE
+Behavioral Health - IP,EM - Discharge Service Issue,232,FALSE,TRUE
+Behavioral Health - IP,EM - Encounter Type Issue,233,FALSE,TRUE
+Behavioral Health - IP,EM - HPI Clarification,234,FALSE,TRUE
+Behavioral Health - IP,EM - Independent Interpretation,235,FALSE,TRUE
+Behavioral Health - IP,EM - Initial Evaluation/ Daily Care,236,FALSE,TRUE
+Behavioral Health - IP,EM - Initial Inpatient/Observation EM Issue,237,FALSE,TRUE
+Behavioral Health - IP,EM - Intensive Care,238,FALSE,TRUE
+Behavioral Health - IP,EM - MDM Clarification,239,FALSE,TRUE
+Behavioral Health - IP,EM - PE Clarification,240,FALSE,TRUE
+Behavioral Health - IP,EM - ROS Clarification,241,FALSE,TRUE
+Behavioral Health - IP,EM - Time Based LOS,242,FALSE,TRUE
+Behavioral Health - IP,Only identified topic(s) in APPEAL or Non Provider issue,243,FALSE,TRUE
+Behavioral Health - IP,PROC - Global Surgical Period/Package,244,FALSE,TRUE
+Behavioral Health - IP,PROC - Procedure Documented But Not Reported,245,FALSE,TRUE
+Behavioral Health - IP,Psych/ Diagnostic Interview,246,FALSE,TRUE
+Behavioral Health - IP,Resuscitation,247,FALSE,TRUE
+Behavioral Health - IP,Supervision of Residents and Fellows,248,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,DX - Appropriate DX Association,249,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,DX - Conflicting Documentation,250,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,DX - Documented But Not Reported,251,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,DX - Initial Fracture VS. Subsequent ,252,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,DX - Not Definitive,253,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,DX - Primary DX/ DX Sequence,254,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,DX - Reported But Not Documented,255,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,DX - Sequela Diagnosis Issue,256,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,DX - Specificity ,257,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,DX - Supporting Documentation,258,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,EM - Chief Complaint/Reason for Visit,259,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,EM - Encounter Type Issue,260,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,EM - HPI Clarification,261,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,EM - MDM Clarification,262,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,EM - Patient Type,263,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,EM - PE Clarification,264,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,EM - ROS Clarification,265,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,EM - Time Based LOS,266,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MOD - Modifier 25,267,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Depression Assessment- Questions 10 - Review potential risk factors for depression,268,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Depression Assessment-Questions 11 - Review potential risk factors for depression,269,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Depression Assessment-Questions 12 - Review potential risk factors for depression,270,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Depression Assessment-Questions 3 - Review potential risk factors for depression,271,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Functional Ability & Safety Assessment- Questions 5- Ability to successfully perform ADLs,272,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Functional Ability & Safety Assessment-Questions 13- Fall Risk,273,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Functional Ability & Safety Assessment-Questions 18- Home Safety,274,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Functional Ability & Safety Assessment-Questions 20- Fall Risk,275,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Functional Ability & Safety Assessment-Questions 4- Ability to successfully perform ADLs,276,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Functional Ability & Safety Assessment-Questions 7 - Ability to successfully perform ADLs,277,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Functional Ability & Safety Assessment-Questions 8- Hearing Impairment,278,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Functional Ability & Safety Assessment-Questions 9- Ability to successfully perform ADLs,279,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,"MWE - Missing List of Providers, Suppliers, Medications information",280,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Medical/ Family History- Meds/Supplemets,281,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Medical/Family History- FH,282,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Medical/Family History- PMH/PSH,283,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing MWE Questionaire Response- Question 1 - Self Assessment of Health Status,284,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing MWE Questionaire Response- Question 2 - Psychosocial Risks,285,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing MWE Questionaire Response- Question 4 - Activities of Daily Living (ADL) and Instrumental ADLs,286,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing MWE Questionaire Response- Question 5 - Activities of Daily Living (ADL) and Instrumental ADLs,287,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing MWE Questionaire Response- Question 9 - Activities of Daily Living (ADL) and Instrumental ADLs,288,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing MWE Questionaire Response-Question 14 - Psychosocial Risks,289,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing MWE Questionaire Response-Question 3 - Psychosocial Risks,290,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing MWE Questionaire Response-Question 6 - Psychosocial Risks,291,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing MWE Questionaire Response-Question 7 - Activities of Daily Living (ADL) and Instrumental ADLs,292,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Personalized Prevention Plan,293,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Routine Measurements Assessment - Blood Pressure,294,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,"MWE - Missing Routine Measurements Assessment - BMI (or waist circumference, if appropriate)",295,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Routine Measurements Assessment - Height,296,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Routine Measurements Assessment - Weight,297,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,MWE - Missing Scheduling of Screening Preventive Services,298,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,Only identified topic(s) in APPEAL or Non Provider issue,299,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,PROC - Procedure Documentation Issue,300,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,PROC - Procedure Documented But Not Reported,301,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,PROC - Procedure Only Visit,302,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,PROC - Procedure Reported But Not Documented ,303,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,PROC - Procedure Reporting Issue,304,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,TAV Coding,305,FALSE,TRUE
+Internal Medicine/Family Medicine - Amb,Video Visits,306,FALSE,TRUE
+Inpatient E&M - IP,Age discrepancy,307,FALSE,TRUE
+Inpatient E&M - IP,Chief Complaint,308,FALSE,TRUE
+Inpatient E&M - IP,Consultation Required Element,309,FALSE,TRUE
+Inpatient E&M - IP,Critical Care ,310,FALSE,TRUE
+Inpatient E&M - IP,Critical Care Coding,311,FALSE,TRUE
+Inpatient E&M - IP,Delivery Room attendance,312,FALSE,TRUE
+Inpatient E&M - IP,Discharge service issue,313,FALSE,TRUE
+Inpatient E&M - IP,Discharge service issue,314,FALSE,TRUE
+Inpatient E&M - IP,DX Conflicting Documentation,315,FALSE,TRUE
+Inpatient E&M - IP,DX Not Documented,316,FALSE,TRUE
+Inpatient E&M - IP,DX Specificity ,317,FALSE,TRUE
+Inpatient E&M - IP,DX Supporting Documentation,318,FALSE,TRUE
+Inpatient E&M - IP,Encounter/Visit Type Issue,319,FALSE,TRUE
+Inpatient E&M - IP,Global Surgical Period/Package,320,FALSE,TRUE
+Inpatient E&M - IP,HPI Clarification,321,FALSE,TRUE
+Inpatient E&M - IP,Independent Interpretation,322,FALSE,TRUE
+Inpatient E&M - IP,Initial Evaluation/ Daily Care,323,FALSE,TRUE
+Inpatient E&M - IP,Initial IP/OBS EM Issue,324,FALSE,TRUE
+Inpatient E&M - IP,Intensive Care,325,FALSE,TRUE
+Inpatient E&M - IP,MDM Clarification,326,FALSE,TRUE
+Inpatient E&M - IP,Only identified topic(s) in APPEAL or Non Provider issue,327,FALSE,TRUE
+Inpatient E&M - IP,PE Clarification,328,FALSE,TRUE
+Inpatient E&M - IP,Procedure documented but not reported,329,FALSE,TRUE
+Inpatient E&M - IP,Psych/ Diagnostic Interview,330,FALSE,TRUE
+Inpatient E&M - IP,Resuscitation,331,FALSE,TRUE
+Inpatient E&M - IP,ROS Clarification,332,FALSE,TRUE
+Inpatient E&M - IP,Supervision of Residents and Fellows,333,FALSE,TRUE
+Inpatient E&M - IP,Time Based LOS,334,FALSE,TRUE
+IP Procedure,Diagnosis or reason not documented/ associated,335,FALSE,TRUE
+IP Procedure,Missed Procedure Code,336,FALSE,TRUE
+IP Procedure,Procedure documentation issue,337,FALSE,TRUE
+IP Procedure,Procedure documented but not reported,338,FALSE,TRUE
+IP Procedure,Procedure reporting Issue,339,FALSE,TRUE
+IP Procedure,Required element- Time,340,FALSE,TRUE
+MD Liaison Ambulatory,DX - Appropriate DX Association,341,FALSE,TRUE
+MD Liaison Ambulatory,DX - Conflicting Documentation,342,FALSE,TRUE
+MD Liaison Ambulatory,DX - Documented But Not Reported,343,FALSE,TRUE
+MD Liaison Ambulatory,DX - Initial Fracture VS. Subsequent ,344,FALSE,TRUE
+MD Liaison Ambulatory,DX - Not Definitive,345,FALSE,TRUE
+MD Liaison Ambulatory,DX - Primary DX/ DX Sequence,346,FALSE,TRUE
+MD Liaison Ambulatory,DX - Reported But Not Documented,347,FALSE,TRUE
+MD Liaison Ambulatory,DX - Sequela Diagnosis Issue,348,FALSE,TRUE
+MD Liaison Ambulatory,DX - Specificity ,349,FALSE,TRUE
+MD Liaison Ambulatory,DX - Supporting Documentation,350,FALSE,TRUE
+MD Liaison Ambulatory,E&M vs. GOS,351,FALSE,TRUE
+MD Liaison Ambulatory,EM - Chief Complaint/Reason for Visit,352,FALSE,TRUE
+MD Liaison Ambulatory,EM - Encounter Type Issue,353,FALSE,TRUE
+MD Liaison Ambulatory,EM - HPI Clarification,354,FALSE,TRUE
+MD Liaison Ambulatory,EM - Independent Interpretation,355,FALSE,TRUE
+MD Liaison Ambulatory,EM - MDM Clarification,356,FALSE,TRUE
+MD Liaison Ambulatory,EM - Patient Type,357,FALSE,TRUE
+MD Liaison Ambulatory,EM - PE Clarification,358,FALSE,TRUE
+MD Liaison Ambulatory,EM - ROS Clarification,359,FALSE,TRUE
+MD Liaison Ambulatory,EM - Time Based LOS,360,FALSE,TRUE
+MD Liaison Ambulatory,GMO issue,361,FALSE,TRUE
+MD Liaison Ambulatory,GOS - Comprehensive VS Intermediate ,362,FALSE,TRUE
+MD Liaison Ambulatory,GOS Element Issue,363,FALSE,TRUE
+MD Liaison Ambulatory,MOD - Modifier 25,364,FALSE,TRUE
+MD Liaison Ambulatory,MOD - Modifier 33,365,FALSE,TRUE
+MD Liaison Ambulatory,MOD - Modifier 57,366,FALSE,TRUE
+MD Liaison Ambulatory,MOD - Modifier 59/XS ,367,FALSE,TRUE
+MD Liaison Ambulatory,Only identified topic(s) in APPEAL or Non Provider issue,368,FALSE,TRUE
+MD Liaison Ambulatory,PROC - Global Surgical Period/Package,369,FALSE,TRUE
+MD Liaison Ambulatory,PROC - Pap and Pelvic Screen,370,FALSE,TRUE
+MD Liaison Ambulatory,PROC - Procedure Documentation Issue,371,FALSE,TRUE
+MD Liaison Ambulatory,PROC - Procedure Documented But Not Reported,372,FALSE,TRUE
+MD Liaison Ambulatory,PROC - Procedure Only Visit,373,FALSE,TRUE
+MD Liaison Ambulatory,PROC - Procedure Reported But Not Documented ,374,FALSE,TRUE
+MD Liaison Ambulatory,PROC - Procedure Reporting Issue,375,FALSE,TRUE
+MD Liaison Ambulatory,PROC - Required element - Time,376,FALSE,TRUE
+MD Liaison Ambulatory,PROC - Ultrasound Documentation,377,FALSE,TRUE
+MD Liaison Ambulatory,TAV Coding,378,FALSE,TRUE
+MD Liaison Licensed Setting,DX - Appropriate DX Association,379,FALSE,TRUE
+MD Liaison Licensed Setting,DX - Conflicting Documentation,380,FALSE,TRUE
+MD Liaison Licensed Setting,DX - Documented But Not Reported,381,FALSE,TRUE
+MD Liaison Licensed Setting,DX - Not Definitive,382,FALSE,TRUE
+MD Liaison Licensed Setting,DX - Primary DX/ DX Sequence,383,FALSE,TRUE
+MD Liaison Licensed Setting,DX - Reported But Not Documented,384,FALSE,TRUE
+MD Liaison Licensed Setting,DX - Specificity ,385,FALSE,TRUE
+MD Liaison Licensed Setting,DX - Supporting Documentation,386,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Age Discrepancy,387,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Chief Complaint/Reason for Visit,388,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Critical Care Coding,389,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Delivery Room Attendance,390,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Discharge Service Issue,391,FALSE,TRUE
+MD Liaison Licensed Setting,EM - ED Level 5 Exception,392,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Encounter Type Issue,393,FALSE,TRUE
+MD Liaison Licensed Setting,EM - High Risk Medication,394,FALSE,TRUE
+MD Liaison Licensed Setting,EM - HPI Clarification,395,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Independent Interpretation,396,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Initial Evaluation/ Daily Care,397,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Initial Inpatient/Observation EM Issue,398,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Intensive Care,399,FALSE,TRUE
+MD Liaison Licensed Setting,EM - MDM Clarification,400,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Patient Type,401,FALSE,TRUE
+MD Liaison Licensed Setting,EM - PE Clarification,402,FALSE,TRUE
+MD Liaison Licensed Setting,EM - ROS Clarification,403,FALSE,TRUE
+MD Liaison Licensed Setting,EM - Time Based LOS,404,FALSE,TRUE
+MD Liaison Licensed Setting,MOD - Modifier 59/XS ,405,FALSE,TRUE
+MD Liaison Licensed Setting,Only identified topic(s) in APPEAL or Non Provider issue,406,FALSE,TRUE
+MD Liaison Licensed Setting,PROC - Global Surgical Period/Package,407,FALSE,TRUE
+MD Liaison Licensed Setting,PROC - Procedure Documentation Issue,408,FALSE,TRUE
+MD Liaison Licensed Setting,PROC - Procedure Documented But Not Reported,409,FALSE,TRUE
+MD Liaison Licensed Setting,PROC - Procedure Only Visit,410,FALSE,TRUE
+MD Liaison Licensed Setting,PROC - Procedure Reported But Not Documented ,411,FALSE,TRUE
+MD Liaison Licensed Setting,PROC - Procedure Reporting Issue,412,FALSE,TRUE
+MD Liaison Licensed Setting,Psych/ Diagnostic Interview,413,FALSE,TRUE
+MD Liaison Licensed Setting,Resuscitation ,414,FALSE,TRUE
+MD Liaison Licensed Setting,Supervision of Residents and Fellows,415,FALSE,TRUE
+MD Liaison Licensed Setting,TAV Coding,416,FALSE,TRUE
+MWE,Chief Complaint,417,FALSE,TRUE
+MWE,Incorrect Level of Service,418,FALSE,TRUE
+MWE,Missing Cognitive Impairment Assessment,419,FALSE,TRUE
+MWE,Missing Depression Assessment- Questions 10 - Review potential risk factors for depression,420,FALSE,TRUE
+MWE,Missing Depression Assessment-Questions 11 - Review potential risk factors for depression,421,FALSE,TRUE
+MWE,Missing Depression Assessment-Questions 12 - Review potential risk factors for depression,422,FALSE,TRUE
+MWE,Missing Depression Assessment-Questions 3 - Review potential risk factors for depression,423,FALSE,TRUE
+MWE,Missing Functional Ability & Safety Assessment- Questions 5- Ability to successfully perform ADLs,424,FALSE,TRUE
+MWE,Missing Functional Ability & Safety Assessment-Questions 13- Fall Risk,425,FALSE,TRUE
+MWE,Missing Functional Ability & Safety Assessment-Questions 18- Home Safety,426,FALSE,TRUE
+MWE,Missing Functional Ability & Safety Assessment-Questions 20- Fall Risk,427,FALSE,TRUE
+MWE,Missing Functional Ability & Safety Assessment-Questions 4- Ability to successfully perform ADLs,428,FALSE,TRUE
+MWE,Missing Functional Ability & Safety Assessment-Questions 7 - Ability to successfully perform ADLs,429,FALSE,TRUE
+MWE,Missing Functional Ability & Safety Assessment-Questions 8- Hearing Impairment,430,FALSE,TRUE
+MWE,Missing Functional Ability & Safety Assessment-Questions 9- Ability to successfully perform ADLs,431,FALSE,TRUE
+MWE,"Missing List of Providers, Suppliers, Medications information",432,FALSE,TRUE
+MWE,Missing Medical/ Family History- Meds/Supplemets,433,FALSE,TRUE
+MWE,Missing Medical/Family History- FH,434,FALSE,TRUE
+MWE,Missing Medical/Family History- PMH/PSH,435,FALSE,TRUE
+MWE,Missing MWE Questionaire Response- Question 1 - Self Assessment of Health Status,436,FALSE,TRUE
+MWE,Missing MWE Questionaire Response- Question 2 - Psychosocial Risks,437,FALSE,TRUE
+MWE,Missing MWE Questionaire Response- Question 4 - Activities of Daily Living (ADL) and Instrumental ADLs,438,FALSE,TRUE
+MWE,Missing MWE Questionaire Response- Question 5 - Activities of Daily Living (ADL) and Instrumental ADLs,439,FALSE,TRUE
+MWE,Missing MWE Questionaire Response- Question 9 - Activities of Daily Living (ADL) and Instrumental ADLs,440,FALSE,TRUE
+MWE,Missing MWE Questionaire Response-Question 14 - Psychosocial Risks,441,FALSE,TRUE
+MWE,Missing MWE Questionaire Response-Question 3 - Psychosocial Risks,442,FALSE,TRUE
+MWE,Missing MWE Questionaire Response-Question 6 - Psychosocial Risks,443,FALSE,TRUE
+MWE,Missing MWE Questionaire Response-Question 7 - Activities of Daily Living (ADL) and Instrumental ADLs,444,FALSE,TRUE
+MWE,Missing Personalized Prevention Plan,445,FALSE,TRUE
+MWE,Missing Routine Measurements Assessment - Blood Pressure,446,FALSE,TRUE
+MWE,"Missing Routine Measurements Assessment - BMI (or waist circumference, if appropriate)",447,FALSE,TRUE
+MWE,Missing Routine Measurements Assessment - Height,448,FALSE,TRUE
+MWE,Missing Routine Measurements Assessment - Weight,449,FALSE,TRUE
+MWE,Missing Scheduling of Screening Preventive Services,450,FALSE,TRUE
+MWE,Procedure documented but not reported,451,FALSE,TRUE
+Neoplasm,Active Neoplasm Documentation,452,FALSE,TRUE
+Neoplasm,Active treatment,453,FALSE,TRUE
+Neoplasm,DX - Conflicting Documentation,454,FALSE,TRUE
+Neoplasm,DX - Documented But Not Reported,455,FALSE,TRUE
+Neoplasm,DX - Not Definitive,456,FALSE,TRUE
+Neoplasm,DX - Primary DX/ DX Sequence,457,FALSE,TRUE
+Neoplasm,DX - Reported But Not Documented,458,FALSE,TRUE
+Neoplasm,DX - Specificity ,459,FALSE,TRUE
+Neoplasm,DX - Supporting Documentation,460,FALSE,TRUE
+Neoplasm,History Neoplasm Documentation,461,FALSE,TRUE
+Neoplasm,Neoplasm Recurrence,462,FALSE,TRUE
+Neoplasm,No Evidence of Disease (NED) with active treatment,463,FALSE,TRUE
+Neoplasm,No Evidence of Disease (NED) without active treatment,464,FALSE,TRUE
+Neoplasm,Primary Neoplasm/Metastasis From,465,FALSE,TRUE
+Neoplasm,PROC - Procedure Documented But Not Reported,466,FALSE,TRUE
+Neoplasm,Secondary Neoplasm/Metastasis To,467,FALSE,TRUE
+Neoplasm,Watchful Waiting/Active Surveillance,468,FALSE,TRUE
+Neurology - Amb,DX - Appropriate DX Association,469,FALSE,TRUE
+Neurology - Amb,DX - Conflicting Documentation,470,FALSE,TRUE
+Neurology - Amb,DX - Documented But Not Reported,471,FALSE,TRUE
+Neurology - Amb,DX - Not Definitive,472,FALSE,TRUE
+Neurology - Amb,DX - Primary DX/ DX Sequence,473,FALSE,TRUE
+Neurology - Amb,DX - Reported But Not Documented,474,FALSE,TRUE
+Neurology - Amb,DX - Specificity ,475,FALSE,TRUE
+Neurology - Amb,DX - Supporting Documentation,476,FALSE,TRUE
+Neurology - Amb,EM - HPI Clarification,477,FALSE,TRUE
+Neurology - Amb,EM - MDM Clarification,478,FALSE,TRUE
+Neurology - Amb,EM - Patient Type,479,FALSE,TRUE
+Neurology - Amb,EM - PE Clarification,480,FALSE,TRUE
+Neurology - Amb,EM - ROS Clarification,481,FALSE,TRUE
+Neurology - Amb,EM - Time Based LOS,482,FALSE,TRUE
+Neurology - Amb,MOD - Modifier 25,483,FALSE,TRUE
+Neurology - Amb,Only identified topic(s) in APPEAL or Non Provider issue,484,FALSE,TRUE
+Neurology - Amb,PROC - Procedure Documentation Issue,485,FALSE,TRUE
+Neurology - Amb,PROC - Procedure Documented But Not Reported,486,FALSE,TRUE
+Neurology - Amb,PROC - Procedure Only Visit,487,FALSE,TRUE
+Neurology - Amb,PROC - Procedure Reported But Not Documented ,488,FALSE,TRUE
+Neurology - Amb,PROC - Procedure Reporting Issue,489,FALSE,TRUE
+New Physician,DX - Appropriate DX Association,490,FALSE,TRUE
+New Physician,DX - Conflicting Documentation,491,FALSE,TRUE
+New Physician,DX - Documented But Not Reported,492,FALSE,TRUE
+New Physician,DX - Initial Fracture VS. Subsequent ,493,FALSE,TRUE
+New Physician,DX - Not Definitive,494,FALSE,TRUE
+New Physician,DX - Primary DX/ DX Sequence,495,FALSE,TRUE
+New Physician,DX - Reported But Not Documented,496,FALSE,TRUE
+New Physician,DX - Sequela Diagnosis Issue,497,FALSE,TRUE
+New Physician,DX - Specificity ,498,FALSE,TRUE
+New Physician,DX - Supporting Documentation,499,FALSE,TRUE
+New Physician,EM - Chief Complaint/Reason for Visit,500,FALSE,TRUE
+New Physician,EM - Consultation Required Element,501,FALSE,TRUE
+New Physician,EM - Encounter Type Issue,502,FALSE,TRUE
+New Physician,EM - HPI Clarification,503,FALSE,TRUE
+New Physician,EM - Independent Interpretation,504,FALSE,TRUE
+New Physician,EM - MDM Clarification,505,FALSE,TRUE
+New Physician,EM - Patient Type,506,FALSE,TRUE
+New Physician,EM - PE Clarification,507,FALSE,TRUE
+New Physician,EM - ROS Clarification,508,FALSE,TRUE
+New Physician,EM - Time Based LOS,509,FALSE,TRUE
+New Physician,MOD - Modifier 25,510,FALSE,TRUE
+New Physician,MOD - Modifier 57,511,FALSE,TRUE
+New Physician,MOD - Modifier 59/XS ,512,FALSE,TRUE
+New Physician,Only identified topic(s) in APPEAL or Non Provider issue,513,FALSE,TRUE
+New Physician,PROC - Global Surgical Period/Package,514,FALSE,TRUE
+New Physician,PROC - Procedure Documentation Issue,515,FALSE,TRUE
+New Physician,PROC - Procedure Documented But Not Reported,516,FALSE,TRUE
+New Physician,PROC - Procedure Only Visit,517,FALSE,TRUE
+New Physician,PROC - Procedure Reported But Not Documented ,518,FALSE,TRUE
+New Physician,PROC - Procedure Reporting Issue,519,FALSE,TRUE
+New Physician,PROC - Required element - Time,520,FALSE,TRUE
+New Physician,TAV Coding,521,FALSE,TRUE
+New Physician,Video Visits,522,FALSE,TRUE
+NICU - IP,DX - Conflicting Documentation,523,FALSE,TRUE
+NICU - IP,DX - Specificity ,524,FALSE,TRUE
+NICU - IP,DX - Supporting Documentation,525,FALSE,TRUE
+NICU - IP,EM - Age Discrepancy,526,FALSE,TRUE
+NICU - IP,EM - Critical Care Coding,527,FALSE,TRUE
+NICU - IP,EM - Delivery Room Attendance,528,FALSE,TRUE
+NICU - IP,EM - Discharge Service Issue,529,FALSE,TRUE
+NICU - IP,EM - Initial Evaluation/ Daily Care,530,FALSE,TRUE
+NICU - IP,EM - Intensive Care,531,FALSE,TRUE
+NICU - IP,PROC - Procedure Documented But Not Reported,532,FALSE,TRUE
+NICU - IP,Resuscitation,533,FALSE,TRUE
+Ob/Gyn - Amb,DX - Appropriate DX Association,534,TRUE,TRUE
+Ob/Gyn - Amb,DX - Conflicting Documentation,535,FALSE,TRUE
+Ob/Gyn - Amb,DX - Documented But Not Reported,536,FALSE,TRUE
+Ob/Gyn - Amb,DX - Not Definitive,537,FALSE,TRUE
+Ob/Gyn - Amb,DX - Obstetrics diagnosis coding issue,538,FALSE,TRUE
+Ob/Gyn - Amb,DX - Primary DX/ DX Sequence,539,FALSE,TRUE
+Ob/Gyn - Amb,DX - Reported But Not Documented,540,FALSE,TRUE
+Ob/Gyn - Amb,DX - Specificity ,541,FALSE,TRUE
+Ob/Gyn - Amb,DX - Supporting Documentation,542,FALSE,TRUE
+Ob/Gyn - Amb,EM - HPI Clarification,543,FALSE,TRUE
+Ob/Gyn - Amb,EM - MDM Clarification,544,FALSE,TRUE
+Ob/Gyn - Amb,EM - Patient Type,545,FALSE,TRUE
+Ob/Gyn - Amb,EM - PE Clarification,546,FALSE,TRUE
+Ob/Gyn - Amb,EM - ROS Clarification,547,FALSE,TRUE
+Ob/Gyn - Amb,EM - Time Based LOS,548,FALSE,TRUE
+Ob/Gyn - Amb,MOD - Modifier 25,549,FALSE,TRUE
+Ob/Gyn - Amb,MOD - Modifier 33,550,FALSE,TRUE
+Ob/Gyn - Amb,Only identified topic(s) in APPEAL or Non Provider issue,551,FALSE,TRUE
+Ob/Gyn - Amb,PROC - Global Surgical Period/Package,552,FALSE,TRUE
+Ob/Gyn - Amb,PROC - Pap and Pelvic Screen,553,FALSE,TRUE
+Ob/Gyn - Amb,PROC - Procedure Documentation Issue,554,FALSE,TRUE
+Ob/Gyn - Amb,PROC - Procedure Documented But Not Reported,555,FALSE,TRUE
+Ob/Gyn - Amb,PROC - Procedure Only Visit,556,FALSE,TRUE
+Ob/Gyn - Amb,PROC - Procedure Reported But Not Documented,557,FALSE,TRUE
+Ob/Gyn - Amb,PROC - Procedure Reporting Issue,558,FALSE,TRUE
+Ob/Gyn - Amb,PROC - Ultrasound Documentation,559,FALSE,TRUE
+Ob/Gyn - Amb,TAV Coding,560,FALSE,TRUE
+Ophthalmology - Amb,DX - Appropriate DX Association,561,FALSE,TRUE
+Ophthalmology - Amb,DX - Conflicting Documentation,562,FALSE,TRUE
+Ophthalmology - Amb,DX - Documented But Not Reported,563,FALSE,TRUE
+Ophthalmology - Amb,DX - Not Definitive,564,FALSE,TRUE
+Ophthalmology - Amb,DX - Primary DX/ DX Sequence,565,FALSE,TRUE
+Ophthalmology - Amb,DX - Reported But Not Documented,566,FALSE,TRUE
+Ophthalmology - Amb,DX - Specificity ,567,FALSE,TRUE
+Ophthalmology - Amb,DX - Supporting Documentation,568,FALSE,TRUE
+Ophthalmology - Amb,E&M vs. GOS,569,FALSE,TRUE
+Ophthalmology - Amb,EM - Chief Complaint/Reason for Visit,570,FALSE,TRUE
+Ophthalmology - Amb,EM - HPI Clarification,571,FALSE,TRUE
+Ophthalmology - Amb,EM - MDM Clarification,572,FALSE,TRUE
+Ophthalmology - Amb,EM - Patient Type,573,FALSE,TRUE
+Ophthalmology - Amb,EM - PE Clarification,574,FALSE,TRUE
+Ophthalmology - Amb,EM - ROS Clarification,575,FALSE,TRUE
+Ophthalmology - Amb,EM - Time Based LOS,576,FALSE,TRUE
+Ophthalmology - Amb,GMO issue,577,FALSE,TRUE
+Ophthalmology - Amb,GOS - Comprehensive VS Intermediate ,578,FALSE,TRUE
+Ophthalmology - Amb,GOS Element Issue,579,FALSE,TRUE
+Ophthalmology - Amb,MOD - Modifier 25,580,FALSE,TRUE
+Ophthalmology - Amb,Only identified topic(s) in APPEAL or Non Provider issue,581,FALSE,TRUE
+Ophthalmology - Amb,PROC - Global Surgical Period/Package,582,FALSE,TRUE
+Ophthalmology - Amb,PROC - Procedure Documentation Issue,583,FALSE,TRUE
+Ophthalmology - Amb,PROC - Procedure Documented But Not Reported,584,FALSE,TRUE
+Ophthalmology - Amb,PROC - Procedure Only Visit,585,FALSE,TRUE
+Ophthalmology - Amb,PROC - Procedure Reported But Not Documented ,586,FALSE,TRUE
+Ophthalmology - Amb,PROC - Procedure Reporting Issue,587,FALSE,TRUE
+Ophthalmology - Amb,PROC - Required element - Time,588,FALSE,TRUE
+Ophthalmology - Amb,TAV Coding,589,FALSE,TRUE
+Orthopedics - Amb,DX - Appropriate DX Association,590,FALSE,TRUE
+Orthopedics - Amb,DX - Conflicting Documentation,591,FALSE,TRUE
+Orthopedics - Amb,DX - Documented But Not Reported,592,FALSE,TRUE
+Orthopedics - Amb,DX - Initial Fracture VS. Subsequent ,593,FALSE,TRUE
+Orthopedics - Amb,DX - Not Definitive,594,FALSE,TRUE
+Orthopedics - Amb,DX - Primary DX/ DX Sequence,595,FALSE,TRUE
+Orthopedics - Amb,DX - Reported But Not Documented,596,FALSE,TRUE
+Orthopedics - Amb,DX - Sequela Diagnosis Issue,597,FALSE,TRUE
+Orthopedics - Amb,DX - Specificity ,598,FALSE,TRUE
+Orthopedics - Amb,DX - Supporting Documentation,599,FALSE,TRUE
+Orthopedics - Amb,EM - Chief Complaint/Reason for Visit,600,FALSE,TRUE
+Orthopedics - Amb,EM - Consultation Required Element,601,FALSE,TRUE
+Orthopedics - Amb,EM - HPI Clarification,602,FALSE,TRUE
+Orthopedics - Amb,EM - Independent Interpretation,603,FALSE,TRUE
+Orthopedics - Amb,EM - MDM Clarification,604,FALSE,TRUE
+Orthopedics - Amb,EM - Patient Type ,605,FALSE,TRUE
+Orthopedics - Amb,EM - PE Clarification,606,FALSE,TRUE
+Orthopedics - Amb,EM - ROS Clarification,607,FALSE,TRUE
+Orthopedics - Amb,EM - Time Based LOS,608,FALSE,TRUE
+Orthopedics - Amb,MOD - Modifier 25,609,FALSE,TRUE
+Orthopedics - Amb,MOD - Modifier 57,610,FALSE,TRUE
+Orthopedics - Amb,MOD - Modifier 59/XS ,611,FALSE,TRUE
+Orthopedics - Amb,Only identified topic(s) in APPEAL or Non Provider issue,612,FALSE,TRUE
+Orthopedics - Amb,PROC - Global Surgical Period/Package,613,FALSE,TRUE
+Orthopedics - Amb,PROC - Procedure Documentation Issue,614,FALSE,TRUE
+Orthopedics - Amb,PROC - Procedure Documented But Not Reported,615,FALSE,TRUE
+Orthopedics - Amb,PROC - Procedure Only Visit,616,FALSE,TRUE
+Orthopedics - Amb,PROC - Procedure Reported But Not Documented ,617,FALSE,TRUE
+Orthopedics - Amb,PROC - Procedure Reporting Issue,618,FALSE,TRUE
+Orthopedics - Amb,PROC - Required element - Time,619,FALSE,TRUE
+Pediatrics - Amb,DX - Appropriate DX Association,620,FALSE,TRUE
+Pediatrics - Amb,DX - Conflicting Documentation,621,FALSE,TRUE
+Pediatrics - Amb,DX - Documented But Not Reported,622,FALSE,TRUE
+Pediatrics - Amb,DX - Not Definitive,623,FALSE,TRUE
+Pediatrics - Amb,DX - Primary DX/ DX Sequence,624,FALSE,TRUE
+Pediatrics - Amb,DX - Reported But Not Documented,625,FALSE,TRUE
+Pediatrics - Amb,DX - Specificity ,626,FALSE,TRUE
+Pediatrics - Amb,DX - Supporting Documentation,627,FALSE,TRUE
+Pediatrics - Amb,E&M vs. Prev Med,628,FALSE,TRUE
+Pediatrics - Amb,E&M With Prev Med,629,FALSE,TRUE
+Pediatrics - Amb,EM - Chief Complaint/Reason for Visit,630,FALSE,TRUE
+Pediatrics - Amb,EM - HPI Clarification,631,FALSE,TRUE
+Pediatrics - Amb,EM - Independent Interpretation,632,FALSE,TRUE
+Pediatrics - Amb,EM - MDM Clarification,633,FALSE,TRUE
+Pediatrics - Amb,EM - Patient Type,634,FALSE,TRUE
+Pediatrics - Amb,EM - PE Clarification,635,FALSE,TRUE
+Pediatrics - Amb,EM - ROS Clarification,636,FALSE,TRUE
+Pediatrics - Amb,EM - Time Based LOS,637,FALSE,TRUE
+Pediatrics - Amb,MOD - Modifier 25,638,FALSE,TRUE
+Pediatrics - Amb,Only identified topic(s) in APPEAL or Non Provider issue,639,FALSE,TRUE
+Pediatrics - Amb,PROC - Procedure Documentation Issue,640,FALSE,TRUE
+Pediatrics - Amb,PROC - Procedure Documented But Not Reported,641,FALSE,TRUE
+Pediatrics - Amb,PROC - Procedure Only Visit,642,FALSE,TRUE
+Pediatrics - Amb,PROC - Procedure Reported But Not Documented ,643,FALSE,TRUE
+Pediatrics - Amb,PROC - Procedure Reporting Issue,644,FALSE,TRUE
+Dermatology - Amb,MOD - Modifier 25,645,FALSE,TRUE
+Nephrology,DX - Appropriate DX Association,1153,FALSE,TRUE
+Nephrology,DX - Conflicting Documentation,1154,FALSE,TRUE
+Nephrology,DX - Documented But Not Reported,1155,FALSE,TRUE
+Nephrology,DX - Not Definitive,1156,FALSE,TRUE
+Nephrology,DX - Primary DX/ DX Sequence,1157,FALSE,TRUE
+Nephrology,DX - Reported But Not Documented,1158,FALSE,TRUE
+Nephrology,DX - Specificity,1159,FALSE,TRUE
+Nephrology,DX - Supporting Documentation,1160,FALSE,TRUE
+Nephrology,EM - Chief Complaint/Reason for Visit,1161,FALSE,TRUE
+Nephrology,EM - Encounter Type Issue,1162,FALSE,TRUE
+Nephrology,EM - HPI Clarification,1163,FALSE,TRUE
+Nephrology,EM - MDM Clarification,1164,FALSE,TRUE
+Nephrology,EM - Patient Type,1165,FALSE,TRUE
+Nephrology,EM - PE Clarification,1166,FALSE,TRUE
+Nephrology,EM - ROS Clarification,1167,FALSE,TRUE
+Nephrology,EM - Time Based LOS,1168,FALSE,TRUE
+Nephrology,ESRD related services,1169,FALSE,TRUE
+Nephrology,MOD - Modifier 25,1170,FALSE,TRUE
+Nephrology,Only identified topic(s) in APPEAL or Non Provider issue,1171,FALSE,TRUE
+Nephrology,PROC - Procedure Documentation Issue,1172,FALSE,TRUE
+Nephrology,PROC - Procedure Documented But Not Reported,1173,FALSE,TRUE
+Nephrology,TAV Coding,1177,FALSE,TRUE
+Nephrology,Video Visits,1178,FALSE,TRUE
+Urgent Care,DX - Appropriate DX Association,1179,FALSE,TRUE
+Urgent Care,DX - Conflicting Documentation,1180,FALSE,TRUE
+Urgent Care,DX - Documented But Not Reported,1181,FALSE,TRUE
+Urgent Care,DX - Not Definitive,1182,FALSE,TRUE
+Urgent Care,DX - Primary DX/ DX Sequence,1183,FALSE,TRUE
+Urgent Care,DX - Reported But Not Documented,1184,FALSE,TRUE
+Urgent Care,DX - Specificity,1185,FALSE,TRUE
+Urgent Care,DX - Supporting Documentation,1186,FALSE,TRUE
+Urgent Care,EM - Chief Complaint/Reason for Visit,1187,FALSE,TRUE
+Urgent Care,EM - Encounter Type Issue,1188,FALSE,TRUE
+Urgent Care,EM - HPI Clarification,1189,FALSE,TRUE
+Urgent Care,EM - Independent Interpretation,1190,FALSE,TRUE
+Urgent Care,EM - MDM Clarification,1191,FALSE,TRUE
+Urgent Care,EM - Patient Type,1192,FALSE,TRUE
+Urgent Care,EM - PE Clarification,1193,FALSE,TRUE
+Urgent Care,EM - ROS Clarification,1194,FALSE,TRUE
+Urgent Care,EM - Time Based LOS,1195,FALSE,TRUE
+Urgent Care,MOD - Modifier 25,1196,FALSE,TRUE
+Urgent Care,Only identified topic(s) in APPEAL or Non Provider issue,1197,FALSE,TRUE
+Urgent Care,PROC - Procedure Documentation Issue,1198,FALSE,TRUE
+Urgent Care,PROC - Procedure Documented But Not Reported,1199,FALSE,TRUE
+Urgent Care,PROC - Procedure Reporting Issue,1202,FALSE,TRUE
+New Physician LS,DX - Appropriate DX Association,1205,FALSE,TRUE
+New Physician LS,DX - Conflicting Documentation,1206,FALSE,TRUE
+New Physician LS,DX - Documented But Not Reported,1207,FALSE,TRUE
+New Physician LS,DX - Initial Fracture VS. Subsequent ,1208,FALSE,TRUE
+New Physician LS,DX - Not Definitive,1209,FALSE,TRUE
+New Physician LS,DX - Primary DX/ DX Sequence,1210,FALSE,TRUE
+New Physician LS,DX - Reported But Not Documented,1211,FALSE,TRUE
+New Physician LS,DX - Sequela Diagnosis Issue,1212,FALSE,TRUE
+New Physician LS,DX - Specificity ,1213,FALSE,TRUE
+New Physician LS,DX - Supporting Documentation,1214,FALSE,TRUE
+New Physician LS,EM - Chief Complaint/Reason for Visit,1215,FALSE,TRUE
+New Physician LS,EM - Consultation Required Element,1216,FALSE,TRUE
+New Physician LS,EM - Encounter Type Issue,1217,FALSE,TRUE
+New Physician LS,EM - HPI Clarification,1218,FALSE,TRUE
+New Physician LS,EM - Independent Interpretation,1219,FALSE,TRUE
+New Physician LS,EM - MDM Clarification,1220,FALSE,TRUE
+New Physician LS,EM - Patient Type,1221,FALSE,TRUE
+New Physician LS,EM - PE Clarification,1222,FALSE,TRUE
+New Physician LS,EM - ROS Clarification,1223,FALSE,TRUE
+New Physician LS,EM - Time Based LOS,1224,FALSE,TRUE
+New Physician LS,MOD - Modifier 25,1225,FALSE,TRUE
+New Physician LS,MOD - Modifier 57,1226,FALSE,TRUE
+New Physician LS,MOD - Modifier 59/XS ,1227,FALSE,TRUE
+New Physician LS,Only identified topic(s) in APPEAL or Non Provider issue,1228,FALSE,TRUE
+New Physician LS,PROC - Global Surgical Period/Package,1229,FALSE,TRUE
+New Physician LS,PROC - Procedure Documentation Issue,1230,FALSE,TRUE
+New Physician LS,PROC - Procedure Documented But Not Reported,1231,FALSE,TRUE
+New Physician LS,PROC - Procedure Only Visit,1232,FALSE,TRUE
+New Physician LS,PROC - Procedure Reported But Not Documented ,1233,FALSE,TRUE
+New Physician LS,PROC - Procedure Reporting Issue,1234,FALSE,TRUE
+New Physician LS,PROC - Required element - Time,1235,FALSE,TRUE
+New Physician LS,TAV Coding,1236,FALSE,TRUE
+New Physician LS,Video Visits,1237,FALSE,TRUE
+Urgent Care,DX-  Evaluate DX KPHC tool usage,1265,FALSE,TRUE
+Urgent Care,DX - Initial Fracture VS. Subsequent,1266,FALSE,TRUE
+Urgent Care,DX - Sequela Diagnosis Issue,1267,FALSE,TRUE
+Urgent Care,PROC - Missed Procedure Code,1268,FALSE,TRUE
+Nephrology,DX- Evaluate DX KPHC tool usage,1269,FALSE,TRUE
+Nephrology,EM - Independent Interpretation,1270,FALSE,TRUE
+Nephrology,PROC - Missed Procedure Code,1271,FALSE,TRUE
+IP Procedure,Diagnosis or reason not documented/ associated,646,FALSE,FALSE
+IP Procedure,Required element- Time,647,FALSE,FALSE
+IP Procedure,Missed Procedure Code,648,FALSE,FALSE
+IP Procedure,Procedure reporting Issue,649,FALSE,FALSE
+IP Procedure,Procedure documentation issue,650,FALSE,FALSE
+Inpatient E&M - IP,Chief Complaint,651,FALSE,FALSE
+Inpatient E&M - IP,Time Based LOS,652,FALSE,FALSE
+Inpatient E&M - IP,Critical Care Coding,653,FALSE,FALSE
+Inpatient E&M - IP,DX Supporting Documentation,654,FALSE,FALSE
+Inpatient E&M - IP,DX Conflicting Documentation,655,FALSE,FALSE
+Inpatient E&M - IP,DX Not Documented,656,FALSE,FALSE
+Inpatient E&M - IP,DX Specificity ,657,FALSE,FALSE
+Inpatient E&M - IP,Global Surgical Period/Package,658,FALSE,FALSE
+Inpatient E&M - IP,Only identified topic(s) in APPEAL or Non Provider issue,659,FALSE,FALSE
+Inpatient E&M - IP,Encounter/Visit Type Issue,660,FALSE,FALSE
+Inpatient E&M - IP,Independent Interpretation,661,FALSE,FALSE
+Inpatient E&M - IP,Psych/ Diagnostic Interview,662,FALSE,FALSE
+Inpatient E&M - IP,Supervision of Residents and Fellows,663,FALSE,FALSE
+Inpatient E&M - IP,Discharge service issue,664,FALSE,FALSE
+Inpatient E&M - IP,Initial IP/OBS EM Issue,665,FALSE,FALSE
+Inpatient E&M - IP,Consultation Required Element,666,FALSE,FALSE
+Inpatient E&M - IP,MDM Clarification,667,FALSE,FALSE
+Inpatient E&M - IP,HPI Clarification,668,FALSE,FALSE
+Inpatient E&M - IP,PE Clarification,669,FALSE,FALSE
+Inpatient E&M - IP,ROS Clarification,670,FALSE,FALSE
+Emergency Department,Critical Care Coding,671,FALSE,FALSE
+Emergency Department,DX Not definitive,672,FALSE,FALSE
+Emergency Department,DX Not documented ,673,FALSE,FALSE
+Emergency Department,DX Specificity ,674,FALSE,FALSE
+Emergency Department,DX Conflicting Documentation,675,FALSE,FALSE
+Emergency Department,DX Supporting Documentation,676,FALSE,FALSE
+Emergency Department,Only identified topic(s) in APPEAL or Non Provider issue,677,FALSE,FALSE
+Emergency Department,Independent Interpretation,678,FALSE,FALSE
+Emergency Department,PROCEDURE DOCUMENTATION ISSUE,679,FALSE,FALSE
+Emergency Department,Smart Phrase EDLEVEL5EXCEPTION,680,FALSE,FALSE
+Emergency Department,MDM Clarification,681,FALSE,FALSE
+Emergency Department,HPI Clarification,682,FALSE,FALSE
+Emergency Department,PE Clarification,683,FALSE,FALSE
+Emergency Department,ROS Clarification,684,FALSE,FALSE
+Neurology - Amb,Time based LOS,685,FALSE,FALSE
+Neurology - Amb,Modifier 25,686,FALSE,FALSE
+Neurology - Amb,Only identified topic(s) in APPEAL or Non Provider issue,687,FALSE,FALSE
+Neurology - Amb,Procedure only visit,688,FALSE,FALSE
+Neurology - Amb,Procedure documentation issue,689,FALSE,FALSE
+Neurology - Amb,Procedure reporting issue,690,FALSE,FALSE
+Neurology - Amb,Missed Procedure,691,FALSE,FALSE
+Neurology - Amb,DX Supporting Documentation,692,FALSE,FALSE
+Neurology - Amb,DX Conflicting Documentation,693,FALSE,FALSE
+Neurology - Amb,DX Not definitive,694,FALSE,FALSE
+Neurology - Amb,DX Not documented ,695,FALSE,FALSE
+Neurology - Amb,DX Specificity ,696,FALSE,FALSE
+Neurology - Amb,Patient Type,697,FALSE,FALSE
+Neurology - Amb,DX Incorrect Primary Diagnosis,698,FALSE,FALSE
+Neurology - Amb,MDM Clarification,699,FALSE,FALSE
+Neurology - Amb,HPI Clarification,700,FALSE,FALSE
+Neurology - Amb,PE Clarification,701,FALSE,FALSE
+Neurology - Amb,ROS Clarification,702,FALSE,FALSE
+Ob/Gyn - Amb,Time based LOS,703,FALSE,FALSE
+Ob/Gyn - Amb,Modifier 25,704,FALSE,FALSE
+Ob/Gyn - Amb,Modifier 33,705,FALSE,FALSE
+Ob/Gyn - Amb,Only identified topic(s) in APPEAL or Non Provider issue,706,FALSE,FALSE
+Ob/Gyn - Amb,Pap and Pelvic Screen,707,FALSE,FALSE
+Ob/Gyn - Amb,Global Surgical Period/Package,708,FALSE,FALSE
+Ob/Gyn - Amb,Procedure Only Visit,709,FALSE,FALSE
+Ob/Gyn - Amb,TAV Coding,710,FALSE,FALSE
+Ob/Gyn - Amb,Procedure Documentation Issue,711,FALSE,FALSE
+Ob/Gyn - Amb,Ultrasound Documentation,712,FALSE,FALSE
+Ob/Gyn - Amb,Patient Type,713,FALSE,FALSE
+Ob/Gyn - Amb,DX Incorrect Primary Diagnosis,714,FALSE,FALSE
+Ob/Gyn - Amb,MDM Clarification,715,FALSE,FALSE
+Ob/Gyn - Amb,HPI Clarification,716,FALSE,FALSE
+Ob/Gyn - Amb,PE Clarification,717,FALSE,FALSE
+Ob/Gyn - Amb,ROS Clarification,718,FALSE,FALSE
+Ophthalmology - Amb,DX Supporting Documentation,719,FALSE,FALSE
+Ophthalmology - Amb,DX Conflicting Documentation,720,FALSE,FALSE
+Ophthalmology - Amb,DX Not definitive,721,FALSE,FALSE
+Ophthalmology - Amb,DX Not documented ,722,FALSE,FALSE
+Ophthalmology - Amb,DX Specificity ,723,FALSE,FALSE
+Ophthalmology - Amb,E&M vs. GOS,724,FALSE,FALSE
+Ophthalmology - Amb,GMO issue,725,FALSE,FALSE
+Ophthalmology - Amb,GOS Element Issue,726,FALSE,FALSE
+Ophthalmology - Amb,Modifier 25,727,FALSE,FALSE
+Ophthalmology - Amb,Only identified topic(s) in APPEAL or Non Provider issue,728,FALSE,FALSE
+Ophthalmology - Amb,Global Surgical Package,729,FALSE,FALSE
+Ophthalmology - Amb,Procedure Only Visit,730,FALSE,FALSE
+Ophthalmology - Amb,Gos - Comprehensive Vs Intermediate Pe,731,FALSE,FALSE
+Ophthalmology - Amb,Patient Type,732,FALSE,FALSE
+Ophthalmology - Amb,DX Incorrect Primary Diagnosis,733,FALSE,FALSE
+Dermatology - Amb,DX Supporting Documentation,734,FALSE,FALSE
+Dermatology - Amb,DX Conflicting Documentation,735,FALSE,FALSE
+Dermatology - Amb,DX Not definitive,736,FALSE,FALSE
+Dermatology - Amb,DX Not documented ,737,FALSE,FALSE
+Dermatology - Amb,DX Specificity ,738,FALSE,FALSE
+Dermatology - Amb,DX Incorrect Primary Diagnosis,739,FALSE,FALSE
+Dermatology - Amb,MOD 59/XS ,740,FALSE,FALSE
+Dermatology - Amb,Only identified topic(s) in APPEAL or Non Provider issue,741,FALSE,FALSE
+Dermatology - Amb,Procedure Documentation Issue,742,FALSE,FALSE
+Dermatology - Amb,Procedure Only Visit,743,FALSE,FALSE
+Dermatology - Amb,MDM Clarification,744,FALSE,FALSE
+Dermatology - Amb,HPI Clarification,745,FALSE,FALSE
+Dermatology - Amb,PE Clarification,746,FALSE,FALSE
+Dermatology - Amb,ROS Clarification,747,FALSE,FALSE
+Dermatology - Amb,Procedure Functionality Issue,748,FALSE,FALSE
+Dermatology - Amb,Missed Procedure,749,FALSE,FALSE
+Dermatology - Amb,Patient type (new / est),750,FALSE,FALSE
+Inpatient E&M - IP,Critical Care ,751,FALSE,FALSE
+Inpatient E&M - IP,Initial Evaluation/ Daily Care,752,FALSE,FALSE
+Inpatient E&M - IP,Intensive Care,753,FALSE,FALSE
+Inpatient E&M - IP,Delivery Room attendance,754,FALSE,FALSE
+Inpatient E&M - IP,Age discrepancy,755,FALSE,FALSE
+Inpatient E&M - IP,Discharge service issue,756,FALSE,FALSE
+Inpatient E&M - IP,Resuscitation,757,FALSE,FALSE
+Haiku - IP,Chief Complaint,758,FALSE,FALSE
+Haiku - IP,Critical Care Coding,759,FALSE,FALSE
+Haiku - IP,DX Supporting Documentation,760,FALSE,FALSE
+Haiku - IP,DX Conflicting Documentation,761,FALSE,FALSE
+Haiku - IP,DX Specificity ,762,FALSE,FALSE
+Haiku - IP,Global Surgical Days,763,FALSE,FALSE
+Haiku - IP,Only identified topic(s) in APPEAL state,764,FALSE,FALSE
+Haiku - IP,Independent Interpretation,765,FALSE,FALSE
+Haiku - IP,Psych/ Diagnostic Interview,766,FALSE,FALSE
+Haiku - IP,D/C services time,767,FALSE,FALSE
+Haiku - IP,Required Elements- Initial IP  or OBS care Level 1,768,FALSE,FALSE
+Haiku - IP,Procedure Documentation Issue,769,FALSE,FALSE
+Haiku - IP,ED Level 5 Exception,770,FALSE,FALSE
+Haiku - IP,Inpatient admission vs. Observation,771,FALSE,FALSE
+Haiku - IP,MDM Clarification,772,FALSE,FALSE
+Haiku - IP,HPI Clarification,773,FALSE,FALSE
+Haiku - IP,PE Clarification,774,FALSE,FALSE
+Haiku - IP,ROS Clarification,775,FALSE,FALSE
+Continuing Care,Chief Complaint,776,FALSE,FALSE
+Continuing Care,DX Conflicting Documentation,777,FALSE,FALSE
+Continuing Care,"DX Documented, not Reported",778,FALSE,FALSE
+Continuing Care,DX Incorrect Primary Diagnosis,779,FALSE,FALSE
+Continuing Care,DX Not definitive,780,FALSE,FALSE
+Continuing Care,DX Not documented ,781,FALSE,FALSE
+Continuing Care,DX Specificity ,782,FALSE,FALSE
+Continuing Care,DX Supporting Documentation,783,FALSE,FALSE
+Continuing Care,Annual Exam,784,FALSE,FALSE
+Continuing Care,HPI Clarification,785,FALSE,FALSE
+Continuing Care,MDM Clarification,786,FALSE,FALSE
+Continuing Care,Missed Procedure,787,FALSE,FALSE
+Continuing Care,Modifier 25,788,FALSE,FALSE
+Continuing Care,Only identified topic(s) in APPEAL or Non Provider issue,789,FALSE,FALSE
+Continuing Care,KPHC Wizard Functionality,790,FALSE,FALSE
+Continuing Care,PE Clarification,791,FALSE,FALSE
+Continuing Care,Procedure Only Visit,792,FALSE,FALSE
+Continuing Care,ROS Clarification,793,FALSE,FALSE
+Continuing Care,Time Based LOS,794,FALSE,FALSE
+Continuing Care,E&M Prior to Admission Visit,795,FALSE,FALSE
+Continuing Care,Discharge service issue,796,FALSE,FALSE
+Continuing Care,Independent Interpretation,797,FALSE,FALSE
+Continuing Care,Initial NF EM Issue,798,FALSE,FALSE
+Continuing Care,Patient Type,799,FALSE,FALSE
+Pediatrics - Amb,Chief Complaint,800,FALSE,FALSE
+Pediatrics - Amb,DX Conflicting Documentation,801,FALSE,FALSE
+Pediatrics - Amb,"DX Documented, not Reported",802,FALSE,FALSE
+Pediatrics - Amb,DX Incorrect Primary Diagnosis,803,FALSE,FALSE
+Pediatrics - Amb,DX Not definitive,804,FALSE,FALSE
+Pediatrics - Amb,DX Not documented ,805,FALSE,FALSE
+Pediatrics - Amb,DX Specificity ,806,FALSE,FALSE
+Pediatrics - Amb,DX Supporting Documentation,807,FALSE,FALSE
+Pediatrics - Amb,E&M vs. Prev Med,808,FALSE,FALSE
+Pediatrics - Amb,E&M With Prev Med,809,FALSE,FALSE
+Pediatrics - Amb,HPI Clarification,810,FALSE,FALSE
+Pediatrics - Amb,MDM Clarification,811,FALSE,FALSE
+Pediatrics - Amb,Missed Procedure,812,FALSE,FALSE
+Pediatrics - Amb,Modifier 25,813,FALSE,FALSE
+Pediatrics - Amb,Only identified topic(s) in APPEAL or Non Provider issue,814,FALSE,FALSE
+Pediatrics - Amb,Patient Type,815,FALSE,FALSE
+Pediatrics - Amb,PE Clarification,816,FALSE,FALSE
+Pediatrics - Amb,Procedure Only Visit,817,FALSE,FALSE
+Pediatrics - Amb,ROS Clarification,818,FALSE,FALSE
+Pediatrics - Amb,Time Based LOS,819,FALSE,FALSE
+Pediatrics - Amb,Independent Interpretation,820,FALSE,FALSE
+Orthopedics - Amb,Chief Complaint,821,FALSE,FALSE
+Orthopedics - Amb,Time Based LOS,822,FALSE,FALSE
+Orthopedics - Amb,DX Not Documented,823,FALSE,FALSE
+Orthopedics - Amb,DX Conflicting Documentation,824,FALSE,FALSE
+Orthopedics - Amb,DX Specificity ,825,FALSE,FALSE
+Orthopedics - Amb,Global Surgical Period/Package,826,FALSE,FALSE
+Orthopedics - Amb,Only identified topic(s) in APPEAL or Non Provider issue,827,FALSE,FALSE
+Orthopedics - Amb,Encounter/ Patient Type Issue,828,FALSE,FALSE
+Orthopedics - Amb,Independent Interpretation,829,FALSE,FALSE
+Orthopedics - Amb,Consultation Required Element,830,FALSE,FALSE
+Orthopedics - Amb,MDM Clarification,831,FALSE,FALSE
+Orthopedics - Amb,HPI Clarification,832,FALSE,FALSE
+Orthopedics - Amb,PE Clarification,833,FALSE,FALSE
+Orthopedics - Amb,ROS Clarification,834,FALSE,FALSE
+Orthopedics - Amb,Diagnosis or reason not documented/associated,835,FALSE,FALSE
+Orthopedics - Amb,Required element - Time,836,FALSE,FALSE
+Orthopedics - Amb,Missed Procedure Code,837,FALSE,FALSE
+Orthopedics - Amb,Procedure reporting issue,838,FALSE,FALSE
+Orthopedics - Amb,Procedure documentation,839,FALSE,FALSE
+Orthopedics - Amb,Modifier 25,840,FALSE,FALSE
+Orthopedics - Amb,Modifer 59,841,FALSE,FALSE
+Orthopedics - Amb,Modifier 57,842,FALSE,FALSE
+Orthopedics - Amb,Incorrect Primary Diagnosis,843,FALSE,FALSE
+Orthopedics - Amb,Procedure Only Visit,844,FALSE,FALSE
+Orthopedics - Amb,Initial Fracture VS. Subsequent ,845,FALSE,FALSE
+Orthopedics - Amb,Sequela Diagnosis Issue,846,FALSE,FALSE
+New Physician,Chief Complaint,847,FALSE,FALSE
+New Physician,Time Based LOS,848,FALSE,FALSE
+New Physician,DX Not Documented,849,FALSE,FALSE
+New Physician,DX Conflicting Documentation,850,FALSE,FALSE
+New Physician,DX Specificity ,851,FALSE,FALSE
+New Physician,Global Surgical Period/Package,852,FALSE,FALSE
+New Physician,Only identified topic(s) in APPEAL or Non Provider issue,853,FALSE,FALSE
+New Physician,Encounter/ Patient Type Issue,854,FALSE,FALSE
+New Physician,Independent Interpretation,855,FALSE,FALSE
+New Physician,Consultation Required Element,856,FALSE,FALSE
+New Physician,MDM Clarification,857,FALSE,FALSE
+New Physician,HPI Clarification,858,FALSE,FALSE
+New Physician,PE Clarification,859,FALSE,FALSE
+New Physician,ROS Clarification,860,FALSE,FALSE
+New Physician,Diagnosis or reason not documented/associated,861,FALSE,FALSE
+New Physician,Required element - Time,862,FALSE,FALSE
+New Physician,Missed Procedure Code,863,FALSE,FALSE
+New Physician,Procedure reporting issue,864,FALSE,FALSE
+New Physician,Procedure documentation,865,FALSE,FALSE
+New Physician,Modifier 25,866,FALSE,FALSE
+New Physician,Modifer 59,867,FALSE,FALSE
+New Physician,Modifier 57,868,FALSE,FALSE
+New Physician,Incorrect Primary Diagnosis,869,FALSE,FALSE
+New Physician,Procedure Only Visit,870,FALSE,FALSE
+New Physician,Initial Fracture VS. Subsequent ,871,FALSE,FALSE
+New Physician,Sequela Diagnosis Issue,872,FALSE,FALSE
+NICU - IP,DX Supporting Documentation,873,FALSE,FALSE
+NICU - IP,DX Conflicting Documentation,874,FALSE,FALSE
+NICU - IP,DX Specificity ,875,FALSE,FALSE
+NICU - IP,Critical Care ,876,FALSE,FALSE
+NICU - IP,Initial Evaluation/ Daily Care,877,FALSE,FALSE
+NICU - IP,Intensive Care,878,FALSE,FALSE
+NICU - IP,Delivery Room attendance,879,FALSE,FALSE
+NICU - IP,Age discrepancy,880,FALSE,FALSE
+NICU - IP,Discharge service issue,881,FALSE,FALSE
+NICU - IP,Resuscitation,882,FALSE,FALSE
+MWE,Chief Complaint,883,FALSE,FALSE
+MWE,Incorrect Level of Service,884,FALSE,FALSE
+MWE,Missing MWE Questionaire Response- Question 1 - Self Assessment of Health Status,885,FALSE,FALSE
+MWE,Missing MWE Questionaire Response- Question 2 - Psychosocial Risks,886,FALSE,FALSE
+MWE,Missing MWE Questionaire Response-Question 3 - Psychosocial Risks,887,FALSE,FALSE
+MWE,Missing MWE Questionaire Response-Question 6 - Psychosocial Risks,888,FALSE,FALSE
+MWE,Missing MWE Questionaire Response-Question 14 - Psychosocial Risks,889,FALSE,FALSE
+MWE,Missing MWE Questionaire Response- Question 4 - Activities of Daily Living (ADL) and Instrumental ADLs,890,FALSE,FALSE
+MWE,Missing MWE Questionaire Response- Question 5 - Activities of Daily Living (ADL) and Instrumental ADLs,891,FALSE,FALSE
+MWE,Missing MWE Questionaire Response-Question 7 - Activities of Daily Living (ADL) and Instrumental ADLs,892,FALSE,FALSE
+MWE,Missing MWE Questionaire Response- Question 9 - Activities of Daily Living (ADL) and Instrumental ADLs,893,FALSE,FALSE
+MWE,Missing Medical/Family History- FH,894,FALSE,FALSE
+MWE,Missing Medical/ Family History- Meds/Supplemets,895,FALSE,FALSE
+MWE,Missing Medical/Family History- PMH/PSH,896,FALSE,FALSE
+MWE,Missing Depression Assessment-Questions 3 - Review potential risk factors for depression,897,FALSE,FALSE
+MWE,Missing Depression Assessment- Questions 10 - Review potential risk factors for depression,898,FALSE,FALSE
+MWE,Missing Depression Assessment-Questions 11 - Review potential risk factors for depression,899,FALSE,FALSE
+MWE,Missing Depression Assessment-Questions 12 - Review potential risk factors for depression,900,FALSE,FALSE
+MWE,Missing Functional Ability & Safety Assessment-Questions 4- Ability to successfully perform ADLs,901,FALSE,FALSE
+MWE,Missing Functional Ability & Safety Assessment- Questions 5- Ability to successfully perform ADLs,902,FALSE,FALSE
+MWE,Missing Functional Ability & Safety Assessment-Questions 7 - Ability to successfully perform ADLs,903,FALSE,FALSE
+MWE,Missing Functional Ability & Safety Assessment-Questions 9- Ability to successfully perform ADLs,904,FALSE,FALSE
+MWE,Missing Functional Ability & Safety Assessment-Questions 8- Hearing Impairment,905,FALSE,FALSE
+MWE,Missing Functional Ability & Safety Assessment-Questions 13- Fall Risk,906,FALSE,FALSE
+MWE,Missing Functional Ability & Safety Assessment-Questions 20- Fall Risk,907,FALSE,FALSE
+MWE,Missing Functional Ability & Safety Assessment-Questions 18- Home Safety,908,FALSE,FALSE
+MWE,"Missing List of Providers, Suppliers, Medications information",909,FALSE,FALSE
+MWE,Missing Routine Measurements Assessment - Height,910,FALSE,FALSE
+MWE,Missing Routine Measurements Assessment - Weight,911,FALSE,FALSE
+MWE,"Missing Routine Measurements Assessment - BMI (or waist circumference, if appropriate)",912,FALSE,FALSE
+MWE,Missing Routine Measurements Assessment - Blood Pressure,913,FALSE,FALSE
+MWE,Missing Cognitive Impairment Assessment,914,FALSE,FALSE
+MWE,Missing Scheduling of Screening Preventive Services,915,FALSE,FALSE
+MWE,Missing Personalized Prevention Plan,916,FALSE,FALSE
+Neoplasm,DX Supporting Documentation,917,FALSE,FALSE
+Neoplasm,DX Conflicting Documentation,918,FALSE,FALSE
+Neoplasm,DX Not definitive,919,FALSE,FALSE
+Neoplasm,DX Not Documented ,920,FALSE,FALSE
+Neoplasm,DX Specificity ,921,FALSE,FALSE
+Neoplasm,Active Neoplasm Documentation,922,FALSE,FALSE
+Neoplasm,History Neoplasm Documentation,923,FALSE,FALSE
+Neoplasm,No Evidence of Disease (NED) without active treatment,924,FALSE,FALSE
+Neoplasm,No Evidence of Disease (NED) with active treatment,925,FALSE,FALSE
+Neoplasm,Active treatment,926,FALSE,FALSE
+Neoplasm,Watchful Waiting/Active Surveillance,927,FALSE,FALSE
+Neoplasm,Neoplasm Recurrence,928,FALSE,FALSE
+Neoplasm,Primary Neoplasm/Metastasis From,929,FALSE,FALSE
+Neoplasm,Secondary Neoplasm/Metastasis To,930,FALSE,FALSE
+MD Liaison Ambulatory,Chief Complaint,931,FALSE,FALSE
+MD Liaison Ambulatory,Diagnosis or reason not documented/associated,932,FALSE,FALSE
+MD Liaison Ambulatory,DX Conflicting Documentation,933,FALSE,FALSE
+MD Liaison Ambulatory,DX Incorrect Primary Diagnosis,934,FALSE,FALSE
+MD Liaison Ambulatory,DX Not definitive,935,FALSE,FALSE
+MD Liaison Ambulatory,DX Not Documented,936,FALSE,FALSE
+MD Liaison Ambulatory,DX Specificity ,937,FALSE,FALSE
+MD Liaison Ambulatory,DX Supporting Documentation,938,FALSE,FALSE
+MD Liaison Ambulatory,E&M vs. GOS,939,FALSE,FALSE
+MD Liaison Ambulatory,Encounter/ Patient Type Issue,940,FALSE,FALSE
+MD Liaison Ambulatory,Global Surgical Package,941,FALSE,FALSE
+MD Liaison Ambulatory,GMO issue,942,FALSE,FALSE
+MD Liaison Ambulatory,Gos - Comprehensive Vs Intermediate Pe,943,FALSE,FALSE
+MD Liaison Ambulatory,GOS Element Issue,944,FALSE,FALSE
+MD Liaison Ambulatory,HPI Clarification,945,FALSE,FALSE
+MD Liaison Ambulatory,Incorrect Primary Diagnosis,946,FALSE,FALSE
+MD Liaison Ambulatory,Independent Interpretation,947,FALSE,FALSE
+MD Liaison Ambulatory,Initial Fracture VS. Subsequent ,948,FALSE,FALSE
+MD Liaison Ambulatory,MDM Clarification,949,FALSE,FALSE
+MD Liaison Ambulatory,Missed Procedure Code,950,FALSE,FALSE
+MD Liaison Ambulatory,MOD 59/XS ,951,FALSE,FALSE
+MD Liaison Ambulatory,Modifer 59,952,FALSE,FALSE
+MD Liaison Ambulatory,Modifier 25,953,FALSE,FALSE
+MD Liaison Ambulatory,Modifier 33,954,FALSE,FALSE
+MD Liaison Ambulatory,Modifier 57,955,FALSE,FALSE
+MD Liaison Ambulatory,Only identified topic(s) in APPEAL or Non Provider issue,956,FALSE,FALSE
+MD Liaison Ambulatory,Pap and Pelvic Screen,957,FALSE,FALSE
+MD Liaison Ambulatory,Patient type (new / est),958,FALSE,FALSE
+MD Liaison Ambulatory,PE Clarification,959,FALSE,FALSE
+MD Liaison Ambulatory,Procedure documentation,960,FALSE,FALSE
+MD Liaison Ambulatory,Procedure Functionality ,961,FALSE,FALSE
+MD Liaison Ambulatory,Procedure only visit,962,FALSE,FALSE
+MD Liaison Ambulatory,Procedure reporting issue,963,FALSE,FALSE
+MD Liaison Ambulatory,Required element - Time,964,FALSE,FALSE
+MD Liaison Ambulatory,ROS Clarification,965,FALSE,FALSE
+MD Liaison Ambulatory,Sequela Diagnosis Issue,966,FALSE,FALSE
+MD Liaison Ambulatory,TAV Coding,967,FALSE,FALSE
+MD Liaison Ambulatory,Time based LOS,968,FALSE,FALSE
+MD Liaison Ambulatory,Ultrasound Documentation,969,FALSE,FALSE
+MD Liaison Licensed Setting,Age discrepancy,970,FALSE,FALSE
+MD Liaison Licensed Setting,Chief Complaint,971,FALSE,FALSE
+MD Liaison Licensed Setting,Critical Care Service,972,FALSE,FALSE
+MD Liaison Licensed Setting,D/C services time,973,FALSE,FALSE
+MD Liaison Licensed Setting,Delivery Room attendance,974,FALSE,FALSE
+MD Liaison Licensed Setting,Discharge service issue,975,FALSE,FALSE
+MD Liaison Licensed Setting,DX Conflicting Documentation,976,FALSE,FALSE
+MD Liaison Licensed Setting,DX Not definitive,977,FALSE,FALSE
+MD Liaison Licensed Setting,DX Not Documented,978,FALSE,FALSE
+MD Liaison Licensed Setting,DX Specificity ,979,FALSE,FALSE
+MD Liaison Licensed Setting,DX Supporting Documentation,980,FALSE,FALSE
+MD Liaison Licensed Setting,Encounter/Visit Type Issue,981,FALSE,FALSE
+MD Liaison Licensed Setting,Global Surgical Period/Package,982,FALSE,FALSE
+MD Liaison Licensed Setting,HPI Clarification,983,FALSE,FALSE
+MD Liaison Licensed Setting,Independent Interpretation,984,FALSE,FALSE
+MD Liaison Licensed Setting,Initial Evaluation/ Daily Care,985,FALSE,FALSE
+MD Liaison Licensed Setting,Initial IP/OBS EM Issue,986,FALSE,FALSE
+MD Liaison Licensed Setting,Inpatient admission vs. Observation,987,FALSE,FALSE
+MD Liaison Licensed Setting,Intensive Care,988,FALSE,FALSE
+MD Liaison Licensed Setting,MDM Clarification,989,FALSE,FALSE
+MD Liaison Licensed Setting,Missed Procedure,990,FALSE,FALSE
+MD Liaison Licensed Setting,MOD 59/XS,991,FALSE,FALSE
+MD Liaison Licensed Setting,Only identified topic(s) in APPEAL or Non Provider issue,992,FALSE,FALSE
+MD Liaison Licensed Setting,Only identified topic(s) in APPEAL state,993,FALSE,FALSE
+MD Liaison Licensed Setting,PE Clarification,994,FALSE,FALSE
+MD Liaison Licensed Setting,Procedure Documentation Issue,995,FALSE,FALSE
+MD Liaison Licensed Setting,Procedure Functionality Issue,996,FALSE,FALSE
+MD Liaison Licensed Setting,Psych/ Diagnostic Interview,997,FALSE,FALSE
+MD Liaison Licensed Setting,Required Elements- Initial IP  or OBS care Level 1,998,FALSE,FALSE
+MD Liaison Licensed Setting,Resuscitation (DNR),999,FALSE,FALSE
+MD Liaison Licensed Setting,ROS Clarification,1000,FALSE,FALSE
+MD Liaison Licensed Setting,Smart Phrase EDLEVEL5EXCEPTION,1001,FALSE,FALSE
+MD Liaison Licensed Setting,Supervision of Residents and Fellows,1002,FALSE,FALSE
+MD Liaison Licensed Setting,Time Based LOS,1003,FALSE,FALSE
+MD Liaison Licensed Setting,High Risk Medication,1004,FALSE,FALSE
+Anesthesia,Anesthesia Type,1005,FALSE,FALSE
+Anesthesia,Anesthesiologist Role (MD Alone/Supervision),1006,FALSE,FALSE
+Anesthesia,ASA (Pre-Anesthesia vs. Intra-op),1007,FALSE,FALSE
+Anesthesia,Field Avoidance,1008,FALSE,FALSE
+Anesthesia,General Anesthesia used when not usual,1009,FALSE,FALSE
+Anesthesia,MAC ,1010,FALSE,FALSE
+Anesthesia,Patient Position,1011,FALSE,FALSE
+Anesthesia,Plan of Care ,1012,FALSE,FALSE
+Anesthesia,Post-Anesthesia Evaluation,1013,FALSE,FALSE
+Anesthesia,Presence During Induction,1014,FALSE,FALSE
+Anesthesia,Procedure Outside Global,1015,FALSE,FALSE
+Anesthesia,Qualifying Circumstances (Controlled Hypotension ),1016,FALSE,FALSE
+Anesthesia,Qualifying Circumstances (Emergency Condition),1017,FALSE,FALSE
+Anesthesia,Qualifying Circumstances (Total Body Hypothermia),1018,FALSE,FALSE
+Anesthesia,Supplemental Procedure,1019,FALSE,FALSE
+Anesthesia,Time (start/end),1020,FALSE,FALSE
+Anesthesia,Transfer of Care,1021,FALSE,FALSE
+Ob/Gyn - Amb,Diagnosis documented but not reported,1022,FALSE,FALSE
+Ob/Gyn - Amb,Diagnosis reported but not documented,1023,FALSE,FALSE
+Ob/Gyn - Amb,Procedure reported but not documented,1024,FALSE,FALSE
+Ob/Gyn - Amb,Encounter provider and service provider do not match,1025,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Incorrect Primary Diagnosis,1026,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,DX Conflicting Documentation,1027,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,DX documented but not reported,1028,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,DX Not definitive,1029,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,DX Not documented ,1030,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,DX Specificity ,1031,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,DX Documentation is insufficent,1032,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Sequela Diagnosis Issue,1033,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Initial Fracture VS. Subsequent ,1034,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Appropriate DX association,1035,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Chief Complaint/Reason for Visit,1036,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,HPI Clarification,1037,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,ROS Clarification,1038,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,PE Clarification,1039,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,MDM Clarification,1040,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Incorrect Level of Service/ Encounter Type,1041,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Patient Type,1042,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Time Based LOS,1043,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,TAV Coding,1044,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Video Visits,1045,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missed Procedure Code,1046,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Procedure Documentation Issue,1047,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Procedure Only Visit,1048,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Procedure Reporting Issue,1049,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Modifier 25,1050,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Depression Assessment- Questions 10 - Review potential risk factors for depression,1051,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Depression Assessment-Questions 11 - Review potential risk factors for depression,1052,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Depression Assessment-Questions 12 - Review potential risk factors for depression,1053,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Depression Assessment-Questions 3 - Review potential risk factors for depression,1054,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Functional Ability & Safety Assessment- Questions 5- Ability to successfully perform ADLs,1055,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Functional Ability & Safety Assessment-Questions 13- Fall Risk,1056,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Functional Ability & Safety Assessment-Questions 18- Home Safety,1057,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Functional Ability & Safety Assessment-Questions 20- Fall Risk,1058,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Functional Ability & Safety Assessment-Questions 4- Ability to successfully perform ADLs,1059,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Functional Ability & Safety Assessment-Questions 7 - Ability to successfully perform ADLs,1060,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Functional Ability & Safety Assessment-Questions 8- Hearing Impairment,1061,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Functional Ability & Safety Assessment-Questions 9- Ability to successfully perform ADLs,1062,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,"Missing List of Providers, Suppliers, Medications information",1063,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Medical/ Family History- Meds/Supplemets,1064,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Medical/Family History- FH,1065,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Medical/Family History- PMH/PSH,1066,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing MWE Questionaire Response- Question 1 - Self Assessment of Health Status,1067,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing MWE Questionaire Response- Question 2 - Psychosocial Risks,1068,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing MWE Questionaire Response- Question 4 - Activities of Daily Living (ADL) and Instrumental ADLs,1069,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing MWE Questionaire Response- Question 5 - Activities of Daily Living (ADL) and Instrumental ADLs,1070,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing MWE Questionaire Response- Question 9 - Activities of Daily Living (ADL) and Instrumental ADLs,1071,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing MWE Questionaire Response-Question 14 - Psychosocial Risks,1072,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing MWE Questionaire Response-Question 3 - Psychosocial Risks,1073,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing MWE Questionaire Response-Question 6 - Psychosocial Risks,1074,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing MWE Questionaire Response-Question 7 - Activities of Daily Living (ADL) and Instrumental ADLs,1075,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Personalized Prevention Plan,1076,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Routine Measurements Assessment - Blood Pressure,1077,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,"Missing Routine Measurements Assessment - BMI (or waist circumference, if appropriate)",1078,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Routine Measurements Assessment - Height,1079,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Routine Measurements Assessment - Weight,1080,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Missing Scheduling of Screening Preventive Services,1081,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Only identified topic(s) in APPEAL or Non Provider issue,1082,FALSE,FALSE
+Behavioral Health - IP,Incorrect Primary Diagnosis,1083,FALSE,FALSE
+Behavioral Health - IP,DX Conflicting Documentation,1084,FALSE,FALSE
+Behavioral Health - IP,DX documented but not reported,1085,FALSE,FALSE
+Behavioral Health - IP,DX Not documented ,1086,FALSE,FALSE
+Behavioral Health - IP,DX Specificity ,1087,FALSE,FALSE
+Behavioral Health - IP,DX Documentation is insufficent,1088,FALSE,FALSE
+Behavioral Health - IP,Appropriate DX association,1089,FALSE,FALSE
+Behavioral Health - IP,Chief Complaint/Reason for Visit,1090,FALSE,FALSE
+Behavioral Health - IP,HPI Clarification,1091,FALSE,FALSE
+Behavioral Health - IP,ROS Clarification,1092,FALSE,FALSE
+Behavioral Health - IP,PE Clarification,1093,FALSE,FALSE
+Behavioral Health - IP,MDM Clarification,1094,FALSE,FALSE
+Behavioral Health - IP,Incorrect Level of Service/ Encounter Type,1095,FALSE,FALSE
+Behavioral Health - IP,Patient Type,1096,FALSE,FALSE
+Behavioral Health - IP,Time Based LOS,1097,FALSE,FALSE
+Behavioral Health - IP,TAV Coding,1098,FALSE,FALSE
+Behavioral Health - IP,Video Visits,1099,FALSE,FALSE
+Behavioral Health - IP,Missed Procedure Code,1100,FALSE,FALSE
+Behavioral Health - IP,Procedure Documentation Issue,1101,FALSE,FALSE
+Behavioral Health - IP,Only identified topic(s) in APPEAL or Non Provider issue,1102,FALSE,FALSE
+Ophthalmology - Amb,Chief Complaint,1103,FALSE,FALSE
+Ophthalmology - Amb,HPI Clarification,1104,FALSE,FALSE
+Ophthalmology - Amb,MDM Clarification,1105,FALSE,FALSE
+Ophthalmology - Amb,ROS Clarification,1106,FALSE,FALSE
+Ophthalmology - Amb,PE Clarification,1107,FALSE,FALSE
+Ophthalmology - Amb,Required element - Time,1108,FALSE,FALSE
+Ophthalmology - Amb,Time Based LOS,1109,FALSE,FALSE
+Ophthalmology - Amb,TAV Coding,1110,FALSE,FALSE
+Anesthesia,Procedure documented but not reported,1111,FALSE,FALSE
+Continuing Care,Procedure documented but not reported,1112,FALSE,FALSE
+Dermatology - Amb,Procedure documented but not reported,1113,FALSE,FALSE
+Emergency Department,Procedure documented but not reported,1114,FALSE,FALSE
+Haiku - IP,Procedure documented but not reported,1115,FALSE,FALSE
+Behavioral Health - IP,Procedure documented but not reported,1116,FALSE,FALSE
+Internal Medicine/Family Medicine - Amb,Procedure documented but not reported,1117,FALSE,FALSE
+Inpatient E&M - IP,Procedure documented but not reported,1118,FALSE,FALSE
+IP Procedure,Procedure documented but not reported,1119,FALSE,FALSE
+MD Liaison Ambulatory,Procedure documented but not reported,1120,FALSE,FALSE
+MD Liaison Licensed Setting,Procedure documented but not reported,1121,FALSE,FALSE
+MWE,Procedure documented but not reported,1122,FALSE,FALSE
+Neoplasm,Procedure documented but not reported,1123,FALSE,FALSE
+Neurology - Amb,Procedure documented but not reported,1124,FALSE,FALSE
+New Physician,Procedure documented but not reported,1125,FALSE,FALSE
+NICU - IP,Procedure documented but not reported,1126,FALSE,FALSE
+Ob/Gyn - Amb,Procedure documented but not reported,1127,FALSE,FALSE
+Ophthalmology - Amb,Procedure documented but not reported,1128,FALSE,FALSE
+Orthopedics - Amb,Procedure documented but not reported,1129,FALSE,FALSE
+Pediatrics - Amb,Procedure documented but not reported,1130,FALSE,FALSE
+Ob/Gyn - Amb,Obstetrics diagnosis coding issue,1131,FALSE,FALSE
+Behavioral Health Prescribing - Amb,Incorrect Primary Diagnosis,1132,FALSE,FALSE
+Behavioral Health Prescribing - Amb,DX Conflicting Documentation,1133,FALSE,FALSE
+Behavioral Health Prescribing - Amb,DX documented but not reported,1134,FALSE,FALSE
+Behavioral Health Prescribing - Amb,DX Not documented ,1135,FALSE,FALSE
+Behavioral Health Prescribing - Amb,DX Specificity ,1136,FALSE,FALSE
+Behavioral Health Prescribing - Amb,DX Documentation is insufficent,1137,FALSE,FALSE
+Behavioral Health Prescribing - Amb,Appropriate DX association,1138,FALSE,FALSE
+Behavioral Health Prescribing - Amb,Chief Complaint/Reason for Visit,1139,FALSE,FALSE
+Behavioral Health Prescribing - Amb,HPI Clarification,1140,FALSE,FALSE
+Behavioral Health Prescribing - Amb,ROS Clarification,1141,FALSE,FALSE
+Behavioral Health Prescribing - Amb,PE Clarification,1142,FALSE,FALSE
+Behavioral Health Prescribing - Amb,MDM Clarification,1143,FALSE,FALSE
+Behavioral Health Prescribing - Amb,Incorrect Level of Service/ Encounter Type,1144,FALSE,FALSE
+Behavioral Health Prescribing - Amb,Patient Type,1145,FALSE,FALSE
+Behavioral Health Prescribing - Amb,Time Based LOS,1146,FALSE,FALSE
+Behavioral Health Prescribing - Amb,TAV Coding,1147,FALSE,FALSE
+Behavioral Health Prescribing - Amb,Video Visits,1148,FALSE,FALSE
+Behavioral Health Prescribing - Amb,Missed Procedure Code,1149,FALSE,FALSE
+Behavioral Health Prescribing - Amb,Procedure Documentation Issue,1150,FALSE,FALSE
+Behavioral Health Prescribing - Amb,Only identified topic(s) in APPEAL or Non Provider issue,1151,FALSE,FALSE
+Behavioral Health Prescribing - Amb,Procedure documented but not reported,1152,FALSE,FALSE
+Nephrology,PROC - Procedure Only Visit,1174,FALSE,FALSE
+Nephrology,PROC - Procedure Reported But Not Documented,1175,FALSE,FALSE
+Nephrology,PROC - Procedure Reporting Issue,1176,FALSE,FALSE
+Urgent Care,PROC - Procedure Only Visit,1200,FALSE,FALSE
+Urgent Care,PROC - Procedure Reported But Not Documented,1201,FALSE,FALSE
+Urgent Care,TAV Coding,1203,FALSE,FALSE
+Urgent Care,Video Visits,1204,FALSE,FALSE
+New Physician LS,Chief Complaint,1238,FALSE,FALSE
+New Physician LS,Time Based LOS,1239,FALSE,FALSE
+New Physician LS,DX Not Documented,1240,FALSE,FALSE
+New Physician LS,DX Conflicting Documentation,1241,FALSE,FALSE
+New Physician LS,DX Specificity ,1242,FALSE,FALSE
+New Physician LS,Global Surgical Period/Package,1243,FALSE,FALSE
+New Physician LS,Only identified topic(s) in APPEAL or Non Provider issue,1244,FALSE,FALSE
+New Physician LS,Encounter/ Patient Type Issue,1245,FALSE,FALSE
+New Physician LS,Independent Interpretation,1246,FALSE,FALSE
+New Physician LS,Consultation Required Element,1247,FALSE,FALSE
+New Physician LS,MDM Clarification,1248,FALSE,FALSE
+New Physician LS,HPI Clarification,1249,FALSE,FALSE
+New Physician LS,PE Clarification,1250,FALSE,FALSE
+New Physician LS,ROS Clarification,1251,FALSE,FALSE
+New Physician LS,Diagnosis or reason not documented/associated,1252,FALSE,FALSE
+New Physician LS,Required element - Time,1253,FALSE,FALSE
+New Physician LS,Missed Procedure Code,1254,FALSE,FALSE
+New Physician LS,Procedure reporting issue,1255,FALSE,FALSE
+New Physician LS,Procedure documentation,1256,FALSE,FALSE
+New Physician LS,Modifier 25,1257,FALSE,FALSE
+New Physician LS,Modifer 59,1258,FALSE,FALSE
+New Physician LS,Modifier 57,1259,FALSE,FALSE
+New Physician LS,Incorrect Primary Diagnosis,1260,FALSE,FALSE
+New Physician LS,Procedure Only Visit,1261,FALSE,FALSE
+New Physician LS,Initial Fracture VS. Subsequent ,1262,FALSE,FALSE
+New Physician LS,Sequela Diagnosis Issue,1263,FALSE,FALSE
+New Physician LS,Procedure documented but not reported,1264,FALSE,FALSE
