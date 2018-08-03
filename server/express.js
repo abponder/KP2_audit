@@ -18,13 +18,15 @@ import ReactDOMServer from 'react-dom/server'
 import MainRouter from './../client/MainRouter'
 import StaticRouter from 'react-router-dom/StaticRouter'
 
+//stylesheet for frontend
 import { SheetsRegistry } from 'react-jss/lib/jss'
 import JssProvider from 'react-jss/lib/JssProvider'
 import { MuiThemeProvider, createMuiTheme, createGenerateClassName } from 'material-ui/styles'
 import { blueGrey, lightGreen } from 'material-ui/colors'
-//end
 
 //===============================================
+
+//================= REMOVE ======================
 //comment out before building for production
 import devBundle from './devBundle'
 //===============================================
@@ -50,6 +52,7 @@ app.use(helmet())
 // enable CORS - Cross Origin Resource Sharing
 app.use(cors())
 
+//place the bundled files in dist folder
 app.use('/dist', express.static(path.join(CURRENT_WORKING_DIR, 'dist')))
 
 // mount routes
@@ -59,6 +62,8 @@ app.use('/', siteRoutes)
 app.use('/', auditRoutes)
 app.use('/', discussRoutes)
 
+//generate the css stylesheet for frontend componenet
+//==================== STYLE SHEET =====================
 app.get('*', (req, res) => {
    const sheetsRegistry = new SheetsRegistry()
    const theme = createMuiTheme({
@@ -100,6 +105,7 @@ app.get('*', (req, res) => {
       css: css
     }))
 })
+//====================END OF STYLE SHEET =====================
 
 // Catch unauthorised errors
 app.use((err, req, res, next) => {
