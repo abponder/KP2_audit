@@ -4,6 +4,7 @@ import webpackMiddleware from 'webpack-dev-middleware'
 import webpackHotMiddleware from 'webpack-hot-middleware'
 import webpackConfig from './../webpack.config.client.js'
 
+//initialize Webpack to compile the client-side code when the server starts running.
 const compile = (app) => {
   if(config.env === "development"){
     const compiler = webpack(webpackConfig)
